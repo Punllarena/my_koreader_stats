@@ -45,11 +45,11 @@ for (year, month), titles in sorted(monthly_data.items()):
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(f"# Titles Read for the Month of {month_name} {year}\n\n")
 
-        for title, seconds in sorted(titles.items(), key=lambda x: x[1], reverse=True):
+        for title, seconds in sorted(titles.items(), key=lambda x: x[0]):
             f.write(f"- {title} : {seconds_to_hm(seconds)}\n")
 
         f.write("\n")
-        f.write(f"## Total Read Time: {seconds_to_hm(total_time)}\n")
+        f.write(f"## ⏱ Total Read Time: {seconds_to_hm(total_time)}\n")
         f.write(f"## Total Titles: {len(titles)}\n")
 
 conn.close()
