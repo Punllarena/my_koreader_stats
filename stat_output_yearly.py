@@ -13,6 +13,9 @@ def seconds_to_hm(seconds):
     minutes = (seconds % 3600) // 60
     return f"{hours}h {minutes}m"
 
+# def human_date(ts):
+#     return datetime.fromtimestamp(ts).strftime("%b %d, %Y")
+
 conn = sqlite3.connect(DB_PATH)
 cur = conn.cursor()
 
@@ -45,7 +48,10 @@ for year, titles in sorted(yearly_titles.items()):
 
         f.write("## 📚 Titles Read\n")
         for title, seconds in sorted(titles.items(), key=lambda x: x[0], reverse=False):
-            f.write(f"- 📖 {title} : ⌛{seconds_to_hm(seconds)}\n")
+            f.write(f"- 📖 {title} \n")
+            f.write(f"  - ⌛ Read Time: {seconds_to_hm(seconds)}\n")
+            # f.write(f"  - 📅 Last Read: {human_date(seconds)}\n\n")
+            f.write(f"\n")
 
         f.write(f"\n## 📚 Total Titles: {total_titles}\n\n")
         f.write("## ⌛ Total Reading Time: ")
