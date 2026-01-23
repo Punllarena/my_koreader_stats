@@ -49,8 +49,8 @@ for (year, month), titles in sorted(monthly_data.items()):
             f.write(f"- {title} : {seconds_to_hm(seconds)}\n")
 
         f.write("\n")
-        f.write(f"Total Read Time: {seconds_to_hm(total_time)}\n")
-        f.write(f"Total Titles: {len(titles)}\n")
+        f.write(f"## Total Read Time: {seconds_to_hm(total_time)}\n")
+        f.write(f"## Total Titles: {len(titles)}\n")
 
 conn.close()
 
