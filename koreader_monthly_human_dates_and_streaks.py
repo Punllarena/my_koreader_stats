@@ -81,8 +81,7 @@ for (year, month), titles in sorted(monthly_titles.items()):
 
         for title, data in sorted(
             titles.items(),
-            key=lambda x: x[1]["time"],
-            reverse=True
+            key=lambda x: x[0]
         ):
             f.write(f"- 📖 {title} \n")
             f.write(f"  - ⌛ Read Time: {seconds_to_hm(data['time'])}\n")
