@@ -44,7 +44,7 @@ for year, titles in sorted(yearly_titles.items()):
         f.write(f"# Reading Year in Review — {year}\n\n")
 
         f.write("## 📚 Titles Read\n")
-        for title, seconds in sorted(titles.items(), key=lambda x: x[1], reverse=True):
+        for title, seconds in sorted(titles.items(), key=lambda x: x[0], reverse=False):
             f.write(f"- {title} : {seconds_to_hm(seconds)}\n")
 
         f.write(f"\nTotal Titles: {total_titles}\n\n")
