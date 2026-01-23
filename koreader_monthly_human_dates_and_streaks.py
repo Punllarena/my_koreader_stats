@@ -90,8 +90,8 @@ for (year, month), titles in sorted(monthly_titles.items()):
 
         f.write("\n---\n\n")
         f.write(f"📅 Reading Stats for {month_name} {year}\n")
-        f.write(f"⏱️ Total Read Time: {seconds_to_hm(total_time)}\n")
-        f.write(f"📚 Total Titles: {len(titles)}\n")
+        f.write(f"- ⏱️ Total Read Time: {seconds_to_hm(total_time)}\n")
+        f.write(f"- 📚 Total Titles: {len(titles)}\n")
         f.write(f"- Total Reading Days: {len(reading_days)}\n")
         f.write(f"- Longest Reading Streak: {longest_streak(reading_days)} days\n")
 
