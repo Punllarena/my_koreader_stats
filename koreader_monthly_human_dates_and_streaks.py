@@ -84,16 +84,18 @@ for (year, month), titles in sorted(monthly_titles.items()):
             key=lambda x: x[1]["time"],
             reverse=True
         ):
-            f.write(f"- 📖 {title} : ⌛{seconds_to_hm(data['time'])}\n")
-            f.write(f"  - 📅 Finished / Last Read: {human_date(data['last_ts'])}\n")
+            f.write(f"- 📖 {title} \n")
+            f.write(f"  - ⌛ Read Time: {seconds_to_hm(data['time'])}\n")
+            f.write(f"  - 📅 Last Read: {human_date(data['last_ts'])}\n\n")
 
         f.write("\n---\n\n")
-        f.write("📅 Reading Stats\n")
-        f.write(f"- Total Reading Days: {len(reading_days)}\n")
-        f.write(f"- Longest Reading Streak: {longest_streak(reading_days)} days\n\n")
-
+        f.write(f"📅 Reading Stats for {month_name} {year}\n")
         f.write(f"⏱️ Total Read Time: {seconds_to_hm(total_time)}\n")
         f.write(f"📚 Total Titles: {len(titles)}\n")
+        f.write(f"- Total Reading Days: {len(reading_days)}\n")
+        f.write(f"- Longest Reading Streak: {longest_streak(reading_days)} days\n")
+
+        
 
 conn.close()
 

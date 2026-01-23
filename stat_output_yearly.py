@@ -45,10 +45,10 @@ for year, titles in sorted(yearly_titles.items()):
 
         f.write("## 📚 Titles Read\n")
         for title, seconds in sorted(titles.items(), key=lambda x: x[0], reverse=False):
-            f.write(f"- {title} : {seconds_to_hm(seconds)}\n")
+            f.write(f"- 📖 {title} : ⌛{seconds_to_hm(seconds)}\n")
 
         f.write(f"\n## 📚 Total Titles: {total_titles}\n\n")
-        f.write("## ⏱ Total Reading Time: ")
+        f.write("## ⌛ Total Reading Time: ")
         f.write(seconds_to_hm(total_time))
 
 conn.close()
