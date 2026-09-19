@@ -139,9 +139,13 @@ def main():
             date = (book.get("c_release_dates") or {}).get(LANG)
             updates.append((series["title"], vol, fmt_date(date)))
 
+    # series with something releasing soonest first, series that are all TBA last
+    soonest = {}
+    for title, _, date in updates:
+        soonest[title] = min(soonest.get(title, (True, "")), (date == "TBA", date))
     write_grouped(OUTPUT_BY_SERIES, "Volume Updates by Series", updates, unmatched,
                   key=lambda u: u[0], line=lambda u: f"- Volume {u[1]} - {u[2]}",
-                  sort_key=lambda u: (u[0], u[1]))
+                  sort_key=lambda u: (soonest[u[0]], u[0], u[1]))
     write_grouped(OUTPUT_BY_MONTH, "Volume Updates by Release Month", updates, unmatched,
                   key=month_of, line=lambda u: f"- {u[0]} - Volume {u[1]} - {u[2]}",
                   sort_key=lambda u: (u[2] == "TBA", u[2], u[0], u[1]))
