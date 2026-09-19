@@ -27,6 +27,9 @@ Bofuri: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.:
   16:
     - 2025-08-24
     - 2025-08-25
+  17:
+    - 2026-05-19
+    - 2026-06-19
 Survival in Another World with My Mistress:
   5:
     - 2025-04-17
@@ -40,6 +43,9 @@ Survival in Another World with My Mistress:
   8:
     - 2025-08-22
     - 2025-08-24
+  9:
+    - 2026-05-29
+    - 2026-05-30
 I Shall Survive Using Potions:
   10:
     - 2025-04-19
@@ -57,6 +63,9 @@ I’m the Evil Lord of an Intergalactic Empire:
   10:
     - 2025-12-15
     - 2025-12-16
+  11:
+    - 2026-06-23
+    - 2026-06-24
 Nia Liston: The Merciless Maiden:
   6:
     - 2025-04-22
@@ -66,7 +75,10 @@ Nia Liston: The Merciless Maiden:
     - 2025-08-30
   8:
     - 2025-12-26
-    - 2025-12-28
+    - 2026-06-16
+  9:
+    - 2026-06-16
+    - 2026-06-17
 RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin’:
   3:
     - 2025-04-24
@@ -115,7 +127,13 @@ She Professed Herself Pupil of the Wise Man:
     - 2025-09-12
   15:
     - 2025-12-22
-    - 2025-12-25
+    - 2026-05-23
+  16:
+    - 2026-05-23
+    - 2026-05-28
+  17:
+    - 2026-08-07
+    - 2026-08-10
 Witch and Mercenary:
   1:
     - 2025-05-02
@@ -132,6 +150,9 @@ Witch and Mercenary:
   5:
     - 2026-02-07
     - 2026-02-08
+  6:
+    - 2026-06-24
+    - 2026-06-25
 Dragon Daddy Diaries: A Girl Grows to Greatness:
   1:
     - 2025-05-05
@@ -182,6 +203,9 @@ My Quiet Blacksmith Life in Another World:
   11:
     - 2025-08-21
     - 2025-08-22
+  12:
+    - 2026-07-04
+    - 2026-07-05
 So I’m a Spider, So What?:
   15:
     - 2025-06-02
@@ -245,6 +269,12 @@ Now I’m a Demon Lord! Happily Ever After with Monster Girls in My Dungeon:
   14:
     - 2026-01-23
     - 2026-01-24
+  15:
+    - 2026-04-07
+    - 2026-04-08
+  16:
+    - 2026-08-02
+    - 2026-08-04
 Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship:
   12:
     - 2025-07-19
@@ -254,7 +284,13 @@ Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship:
     - 2025-08-24
   14:
     - 2025-12-21
-    - 2025-12-21
+    - 2026-05-22
+  15:
+    - 2026-05-22
+    - 2026-05-23
+  16:
+    - 2026-09-15
+    - 2026-09-16
 Welcome to Japan, Ms. Elf:
   10:
     - 2025-07-24
@@ -284,10 +320,16 @@ Free Life Fantasy Online: Immortal Princess:
   9:
     - 2025-08-08
     - 2025-08-10
+  10:
+    - 2026-03-30
+    - 2026-03-31
 Kunon the Sorcerer Can See:
   4:
     - 2025-08-10
     - 2025-08-11
+  5:
+    - 2026-05-01
+    - 2026-05-03
 The Water Magician: Arc 1:
   1:
     - 2025-08-12
@@ -304,6 +346,9 @@ The Water Magician: Arc 1:
   5:
     - 2025-10-18
     - 2025-10-22
+  6:
+    - 2026-05-13
+    - 2026-05-14
 Isekai Walking:
   1:
     - 2025-08-16
@@ -314,13 +359,19 @@ Isekai Walking:
   3:
     - 2025-08-19
     - 2025-08-20
+  4:
+    - 2026-09-09
+    - 2026-09-15
+  5:
+    - 2026-09-16
+    - 2026-09-18
 Secrets of the Silent Witch:
   6:
     - 2025-08-20
     - 2025-08-21
   7:
     - 2025-12-19
-    - 2025-12-21
+    - 2026-08-10
 KOReader Quickstart Guide:
   - 2025-08-23
   - 2025-08-23
@@ -331,6 +382,9 @@ The Devil Princess:
   2:
     - 2025-10-11
     - 2025-10-13
+  3:
+    - 2026-05-11
+    - 2026-05-12
 Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City:
   5:
     - 2025-08-27
@@ -338,6 +392,9 @@ Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nam
   6:
     - 2025-11-24
     - 2025-11-27
+  7:
+    - 2026-05-10
+    - 2026-05-11
 The Poison King: Now that I’ve Gained Ultimate Power, the Bewitching Beauties in My Harem Can’t Get Enough of Me:
   4:
     - 2025-08-28
@@ -348,6 +405,9 @@ The Poison King: Now that I’ve Gained Ultimate Power, the Bewitching Beauties 
   6:
     - 2025-10-23
     - 2025-10-23
+  7:
+    - 2026-05-13
+    - 2026-05-13
 Chillin’ in Another World with Level 2 Super Cheat Powers:
   18:
     - 2025-09-01
@@ -366,10 +426,16 @@ Let This Grieving Soul Retire:
   8:
     - 2025-10-16
     - 2025-10-18
+  9:
+    - 2026-05-07
+    - 2026-05-10
 The World’s Strongest Witch:
   1:
     - 2025-09-10
     - 2025-09-11
+  2:
+    - 2026-05-19
+    - 2026-05-20
 The Tiny Witch from the Deep Woods:
   1:
     - 2025-09-16
@@ -390,6 +456,9 @@ How I Became King by Eating Monsters:
   4:
     - 2026-01-27
     - 2026-01-28
+  5:
+    - 2026-05-21
+    - 2026-05-22
 Magic Stone Gourmet: Eating Magical Power Made Me the Strongest:
   1:
     - 2025-09-26
@@ -426,6 +495,9 @@ Witches Can’t Be Collared:
   1:
     - 2025-10-14
     - 2025-10-14
+  2:
+    - 2026-06-01
+    - 2026-06-01
 Long Story Short, I’m Living in the Mountains:
   1:
     - 2025-10-24
@@ -505,14 +577,29 @@ An Introvert’s Hookup Hiccups: This Gyaru Is Head Over Heels for Me:
   11:
     - 2025-12-11
     - 2025-12-12
+  12:
+    - 2026-05-14
+    - 2026-05-18
 Looks like a Job for a Maid! The Tales of a Dismissed Supermaid:
   1:
     - 2025-12-17
     - 2025-12-19
+  2:
+    - 2026-08-31
+    - 2026-09-01
+  3:
+    - 2026-09-01
+    - 2026-09-01
 The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World:
   1:
     - 2025-12-25
     - 2025-12-25
+  2:
+    - 2026-05-12
+    - 2026-05-13
+  3:
+    - 2026-05-18
+    - 2026-05-19
 The Amazing Village Creator: Slow Living with the Village Building Cheat Skill:
   1:
     - 2025-12-29
@@ -520,6 +607,12 @@ The Amazing Village Creator: Slow Living with the Village Building Cheat Skill:
   2:
     - 2026-02-18
     - 2026-02-21
+  3:
+    - 2026-08-04
+    - 2026-08-06
+  4:
+    - 2026-08-06
+    - 2026-08-07
 The Hero and the Sage, Reincarnated and Engaged:
   1:
     - 2025-12-31
@@ -573,6 +666,9 @@ Peddler in Another World: I Can Go Back to My World Whenever I Want:
   11:
     - 2026-01-21
     - 2026-01-22
+  12:
+    - 2026-05-20
+    - 2026-05-21
 Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole:
   9:
     - 2026-01-28
@@ -628,4 +724,302 @@ To Another World... with Land Mines:
     - 2026-02-28
   3:
     - 2026-02-28
-    - 2026-03-03
+    - 2026-03-04
+  4:
+    - 2026-03-04
+    - 2026-03-05
+  5:
+    - 2026-03-05
+    - 2026-03-06
+  6:
+    - 2026-03-06
+    - 2026-03-13
+  7:
+    - 2026-03-13
+    - 2026-03-17
+  8:
+    - 2026-03-17
+    - 2026-03-20
+  10:
+    - 2026-03-23
+    - 2026-03-24
+  11:
+    - 2026-03-24
+    - 2026-03-27
+  12:
+    - 2026-03-27
+    - 2026-03-29
+To Another World... with Land Mines! V09:
+  - 2026-03-20
+  - 2026-03-22
+The Tale of a Little Alchemist Blessed by the Spirits:
+  1:
+    - 2026-04-01
+    - 2026-04-02
+  2:
+    - 2026-04-03
+    - 2026-04-07
+A Late-Start Tamer’s Laid-Back Life:
+  1:
+    - 2026-04-11
+    - 2026-04-12
+  2:
+    - 2026-04-12
+    - 2026-04-13
+  3:
+    - 2026-04-13
+    - 2026-04-14
+  4:
+    - 2026-04-14
+    - 2026-04-17
+  5:
+    - 2026-04-17
+    - 2026-04-18
+  6:
+    - 2026-04-18
+    - 2026-04-20
+  7:
+    - 2026-04-20
+    - 2026-04-21
+  8:
+    - 2026-04-21
+    - 2026-04-22
+  9:
+    - 2026-04-22
+    - 2026-04-23
+  10:
+    - 2026-04-23
+    - 2026-04-24
+  11:
+    - 2026-04-24
+    - 2026-04-26
+  12:
+    - 2026-04-27
+    - 2026-04-28
+  13:
+    - 2026-04-29
+    - 2026-04-30
+  14:
+    - 2026-04-30
+    - 2026-05-01
+Kusunoki’s Garden of Gods:
+  1:
+    - 2026-05-03
+    - 2026-05-07
+The Invincible Little Lady:
+  7:
+    - 2026-05-22
+    - 2026-08-13
+Dimension Wave:
+  1:
+    - 2026-06-01
+    - 2026-06-03
+  2:
+    - 2026-06-03
+    - 2026-06-04
+  3:
+    - 2026-06-04
+    - 2026-06-05
+  4:
+    - 2026-06-05
+    - 2026-06-07
+  5:
+    - 2026-06-08
+    - 2026-06-09
+  6:
+    - 2026-06-09
+    - 2026-06-10
+  7:
+    - 2026-06-10
+    - 2026-06-12
+2026-06-05-22-55-40 Aneko Yusagi; Ryo Ueda; Roy Nukia; Ambriella Ceridwen -  Dimension Wave_:
+  4:
+    - 2026-06-05
+    - 2026-06-05
+The Accursed Chef and His Pair of Furry Foodies:
+  1:
+    - 2026-06-12
+    - 2026-06-13
+  2:
+    - 2026-06-13
+    - 2026-06-13
+  3:
+    - 2026-06-14
+    - 2026-06-14
+The Magical Revolution of the Reincarnated Princess and the Genius Young Lady:
+  7:
+    - 2026-06-14
+    - 2026-06-14
+  8:
+    - 2026-06-14
+    - 2026-06-15
+  9:
+    - 2026-06-15
+    - 2026-06-16
+Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive:
+  1:
+    - 2026-06-19
+    - 2026-06-19
+Before the Tutorial Starts:
+  2:
+    - 2026-06-19
+    - 2026-06-20
+  3:
+    - 2026-06-20
+    - 2026-06-23
+  4:
+    - 2026-06-23
+    - 2026-06-23
+Fired? But I Maintain All the Software:
+  1:
+    - 2026-06-25
+    - 2026-06-25
+Fluffy Cafe in Another World:
+  1:
+    - 2026-06-25
+    - 2026-06-27
+Flung into a New World? Time to Lift the 200-Year Curse:
+  1:
+    - 2026-06-27
+    - 2026-06-28
+  2:
+    - 2026-06-28
+    - 2026-06-29
+  3:
+    - 2026-06-29
+    - 2026-07-01
+  4:
+    - 2026-07-01
+    - 2026-07-04
+New Game Plus After Defeating the Last Boss:
+  1:
+    - 2026-07-05
+    - 2026-07-06
+  2:
+    - 2026-07-06
+    - 2026-07-07
+Heir to a Monstermancer:
+  1:
+    - 2026-07-07
+    - 2026-07-08
+  2:
+    - 2026-07-08
+    - 2026-07-09
+Magical★Explorer: Reborn as a Side Character in a Fantasy Dating Sim:
+  1:
+    - 2026-07-09
+    - 2026-07-11
+  2:
+    - 2026-07-11
+    - 2026-07-13
+  7:
+    - 2026-07-15
+    - 2026-07-17
+  8:
+    - 2026-07-17
+    - 2026-07-21
+  9:
+    - 2026-07-20
+    - 2026-07-22
+  10:
+    - 2026-07-22
+    - 2026-07-25
+Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim:
+  3:
+    - 2026-07-13
+    - 2026-07-13
+  4:
+    - 2026-07-13
+    - 2026-07-14
+  5:
+    - 2026-07-17
+    - 2026-07-20
+Magical Explorer:
+  6:
+    - 2026-07-14
+    - 2026-07-15
+From Villainess to Healer:
+  1:
+    - 2026-07-26
+    - 2026-07-27
+  2:
+    - 2026-07-27
+    - 2026-07-28
+  3:
+    - 2026-07-28
+    - 2026-07-28
+  4:
+    - 2026-07-28
+    - 2026-07-28
+  5:
+    - 2026-07-28
+    - 2026-07-30
+  6:
+    - 2026-07-30
+    - 2026-08-02
+Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀:
+  1:
+    - 2026-08-13
+    - 2026-08-13
+  2:
+    - 2026-08-13
+    - 2026-08-14
+  3:
+    - 2026-08-14
+    - 2026-08-14
+  4:
+    - 2026-08-14
+    - 2026-08-15
+  5:
+    - 2026-08-15
+    - 2026-08-16
+  6:
+    - 2026-08-16
+    - 2026-08-16
+  7:
+    - 2026-08-16
+    - 2026-08-17
+  8:
+    - 2026-08-17
+    - 2026-08-18
+  9:
+    - 2026-08-18
+    - 2026-08-21
+  10:
+    - 2026-08-21
+    - 2026-08-23
+  11:
+    - 2026-08-23
+    - 2026-08-24
+  12:
+    - 2026-08-24
+    - 2026-08-27
+  13:
+    - 2026-08-28
+    - 2026-08-29
+A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires:
+  7:
+    - 2026-08-29
+    - 2026-08-31
+Death’s Daughter and the Ebony Blade:
+  1:
+    - 2026-09-02
+    - 2026-09-02
+  2:
+    - 2026-09-02
+    - 2026-09-03
+  3:
+    - 2026-09-03
+    - 2026-09-05
+  4:
+    - 2026-09-05
+    - 2026-09-06
+  5:
+    - 2026-09-06
+    - 2026-09-07
+  6:
+    - 2026-09-07
+    - 2026-09-07
+  7:
+    - 2026-09-08
+    - 2026-09-08
