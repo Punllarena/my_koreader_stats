@@ -23,4 +23,11 @@ assert fmt_date(99999999) == "TBA"
 assert fmt_date(None) == "TBA"
 assert fmt_date(20269999) == "2026"
 
+# grouping headings
+from updates import month_of
+
+assert month_of(("X", 1, "2026-10-13")) == "October 2026"
+assert month_of(("X", 1, "TBA")) == "TBA"
+assert month_of(("X", 1, "2026")) == "2026"
+
 print("ok")

@@ -11,7 +11,8 @@ from datetime import datetime
 from pathlib import Path
 
 DB_PATH = "statistics.sqlite3"
-OUTPUT = "updates.md"
+OUTPUT_BY_SERIES = "updates_by_series.md"
+OUTPUT_BY_MONTH = "updates_by_month.md"
 CACHE_PATH = Path(".ranobedb_cache.json")
 API = "https://ranobedb.org/api/v0"
 LANG = "en"  # release language to report
@@ -88,6 +89,33 @@ def read_volumes():
     return highest
 
 
+def month_of(update):
+    """Heading a volume is filed under - full dates by month, everything else by itself."""
+    date = update[2]
+    if date == "TBA":
+        return "TBA"
+    try:
+        return datetime.strptime(date[:7], "%Y-%m").strftime("%B %Y")
+    except ValueError:
+        return date  # year-only date from a partially known release
+
+
+def write_grouped(path, heading, updates, unmatched, key, line, sort_key):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"# {heading} ({datetime.now():%Y-%m-%d})\n\n")
+        f.write(f"Volumes newer than what you've read, per RanobeDB ({LANG} releases).\n")
+        group = None
+        for update in sorted(updates, key=sort_key):
+            if key(update) != group:
+                group = key(update)
+                f.write(f"\n## {group}\n\n")
+            f.write(line(update) + "\n")
+        if unmatched:
+            f.write("\n## Not found on RanobeDB\n\n")
+            for name in unmatched:
+                f.write(f"- {name}\n")
+
+
 def main():
     updates, unmatched = [], []
 
@@ -111,20 +139,16 @@ def main():
             date = (book.get("c_release_dates") or {}).get(LANG)
             updates.append((series["title"], vol, fmt_date(date)))
 
-    updates.sort()
-
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write(f"# Volume Updates ({datetime.now():%Y-%m-%d})\n\n")
-        f.write(f"Volumes newer than what you've read, per RanobeDB ({LANG} releases).\n\n")
-        for title, vol, date in updates:
-            f.write(f"- {title} - Volume {vol} - {date}\n")
-        if unmatched:
-            f.write("\n## Not found on RanobeDB\n\n")
-            for name in unmatched:
-                f.write(f"- {name}\n")
+    write_grouped(OUTPUT_BY_SERIES, "Volume Updates by Series", updates, unmatched,
+                  key=lambda u: u[0], line=lambda u: f"- Volume {u[1]} - {u[2]}",
+                  sort_key=lambda u: (u[0], u[1]))
+    write_grouped(OUTPUT_BY_MONTH, "Volume Updates by Release Month", updates, unmatched,
+                  key=month_of, line=lambda u: f"- {u[0]} - Volume {u[1]} - {u[2]}",
+                  sort_key=lambda u: (u[2] == "TBA", u[2], u[0], u[1]))
 
     print(f"{len(updates)} newer volumes across {len(set(u[0] for u in updates))} series"
-          f" -> {OUTPUT} ({len(unmatched)} series unmatched)")
+          f" -> {OUTPUT_BY_SERIES}, {OUTPUT_BY_MONTH}"
+          f" ({len(unmatched)} series unmatched)")
 
 
 if __name__ == "__main__":
