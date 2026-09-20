@@ -17,6 +17,7 @@ OUTPUT_BY_SERIES = "updates_by_series.md"
 OUTPUT_BY_MONTH = "updates_by_month.md"
 CACHE_PATH = Path(".ranobedb_cache.json")
 API = "https://ranobedb.org/api/v0"
+SERIES_URL = "https://ranobedb.org/series/{}"
 LANG = "en"  # release language to report
 UA = "my_koreader_stats/1.0"  # ranobedb 403s the default urllib agent
 
@@ -132,7 +133,7 @@ def write_grouped(path, heading, updates, unmatched, key, line, sort_key):
 
 
 def main():
-    updates, unmatched = [], []
+    updates, unmatched, links = [], [], {}
     highest, read_titles = read_volumes()
 
     # several KOReader titles can resolve to one series ("X" and "X: Subtitle") - keep the furthest read
@@ -146,6 +147,7 @@ def main():
 
     for sid, last_read in furthest.items():
         series = get(f"{API}/series/{sid}")["series"]
+        links[series["title"]] = SERIES_URL.format(sid)
         books = [b for b in series.get("books", []) if b.get("book_type") == "main"]
 
         # a volume number can cover several books ("Volume 7 Exordium"/"Finale"), so a book whose
@@ -166,11 +168,12 @@ def main():
     soonest = {}
     for title, _, date, _label in updates:
         soonest[title] = min(soonest.get(title, (True, "")), (date == "TBA", date))
+    linked = lambda title: f"[{title}]({links[title]})"
     write_grouped(OUTPUT_BY_SERIES, "Volume Updates by Series", updates, unmatched,
-                  key=lambda u: u[0], line=lambda u: f"- {u[3]} - {u[2]}",
+                  key=lambda u: linked(u[0]), line=lambda u: f"- {u[3]} - {u[2]}",
                   sort_key=lambda u: (soonest[u[0]], u[0], u[1]))
     write_grouped(OUTPUT_BY_MONTH, "Volume Updates by Release Month", updates, unmatched,
-                  key=month_of, line=lambda u: f"- {u[0]} - {u[3]} - {u[2]}",
+                  key=month_of, line=lambda u: f"- {linked(u[0])} - {u[3]} - {u[2]}",
                   sort_key=lambda u: (u[2] == "TBA", u[2], u[0], u[1]))
 
     print(f"{len(updates)} newer volumes across {len(set(u[0] for u in updates))} series"

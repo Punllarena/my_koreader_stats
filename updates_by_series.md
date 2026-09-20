@@ -62,11 +62,11 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Welcome to Japan, Ms. Elf!](#welcome-to-japan-ms-elf)
 - [Not found on RanobeDB](#not-found-on-ranobedb)
 
-## Meals Made to Order: How to Domesticate Your Dragon with Delicacies!
+## [Meals Made to Order: How to Domesticate Your Dragon with Delicacies!](https://ranobedb.org/series/14271)
 
 - Volume 1 - 2025-01-27
 
-## Kusunoki's Garden of Gods
+## [Kusunoki's Garden of Gods](https://ranobedb.org/series/12813)
 
 - Vol. 2 - 2025-05-20
 - Vol. 3 - 2025-11-25
@@ -81,7 +81,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 神の庭付き楠木邸12 - TBA
 - 神の庭付き楠木邸13 - TBA
 
-## Loner Life in Another World
+## [Loner Life in Another World](https://ranobedb.org/series/7643)
 
 - Vol. 12: Reverse Babel of the Sleeping Saint - 2025-06-05
 - Vol. 13: The Self-Styled Frailest Fighter Sets Out to Rectify Just That - 2025-10-23
@@ -91,7 +91,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - ひとりぼっちの異世界攻略 life.17 旧態依然デストラクション - TBA
 - ひとりぼっちの異世界攻略 life.18 因習の彼方に - TBA
 
-## Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!
+## [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676)
 
 - Vol. 4 - 2025-09-25
 - Vol. 5 - 2026-01-15
@@ -101,14 +101,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - ヒロイン?聖女?いいえ、オールワークスメイドです(誇)!9 - TBA
 - ヒロイン?聖女?いいえ、オールワークスメイドです(誇)!10 - TBA
 
-## Chillin' in Another World with Level 2 Super Cheat Powers
+## [Chillin' in Another World with Level 2 Super Cheat Powers](https://ranobedb.org/series/6363)
 
 - Volume 19 - 2025-11-19
 - Volume 20 - 2026-08-04
 - Lv2からチートだった元勇者候補のまったり異世界ライフ 21 - TBA
 - Lv2からチートだった元勇者候補のまったり異世界ライフ 22 - TBA
 
-## Long Story Short, I'm Living in the Mountains
+## [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268)
 
 - Volume 4 - 2026-01-07
 - Volume 5 - 2026-04-02
@@ -120,7 +120,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 前略、山暮らしを始めました。11 - TBA
 - 前略、山暮らしを始めました。12 - TBA
 
-## The Fearsome Witch Teaches in Another World
+## [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606)
 
 - Volume 2 - A Remedial Lesson in Crime and Politics - 2026-02-20
 - Volume 3 - Behold the Growth of My Students - 2026-05-22
@@ -132,14 +132,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 異世界転移して教師になったが、魔女と恐れられている件9 〜古代遺跡に眠る叡智、この目で確かめに行きます〜 - TBA
 - 異世界転移して教師になったが、魔女と恐れられている件10 〜これは、世界をつなぐための授業です〜 - TBA
 
-## Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim
+## [Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim](https://ranobedb.org/series/10289)
 
 - Magical Explorer, Vol. 11: Reborn as a Side Character in a Fantasy Dating Sim - 2026-03-17
 - Magical Explorer, Vol. 12 - 2026-11-10
 - マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる13 - TBA
 - マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる14 - TBA
 
-## The Tiny Witch from the Deep Woods
+## [The Tiny Witch from the Deep Woods](https://ranobedb.org/series/15046)
 
 - Volume 3 - 2026-03-18
 - Volume 4 - 2026-06-26
@@ -147,13 +147,13 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Volume 6 - 2026-12-28
 - 森の端っこのちび魔女さん7 - TBA
 
-## I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
+## [I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://ranobedb.org/series/10694)
 
 - Volume 9 - 2026-04-13
 - Volume 10 - 2026-06-29
 - Volume 11 - 2026-09-08
 
-## Isekai Walking
+## [Isekai Walking](https://ranobedb.org/series/13370)
 
 - Volume 6 - Eld Republic Arc - 2026-05-19
 - Volume 7 - Demon Kingdom Arc - 2026-08-26
@@ -165,12 +165,12 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 異世界ウォーキング 13 〜魔物の国ハイカル編〜 - TBA
 - 異世界ウォーキング 14 〜ボースハイル帝国編〜 - TBA
 
-## To Another World... with Land Mines!
+## [To Another World... with Land Mines!](https://ranobedb.org/series/9208)
 
 - Volume 13 - 2026-06-22
 - Volume 14 - 2026-12-01
 
-## Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party
+## [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](https://ranobedb.org/series/8466)
 
 - Let This Grieving Soul Retire: Volume 10 - 2026-06-24
 - Let This Grieving Soul Retire: Volume 11 - 2026-10-28
@@ -178,14 +178,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 13 - TBA
 - 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 14 - TBA
 
-## The Devil Princess
+## [The Devil Princess](https://ranobedb.org/series/13673)
 
 - Vol. 4 - 2026-07-09
 - Vol. 5 - 2026-10-15
 - Vol. 6 - 2027-04-13
 - 悪魔公女7 - TBA
 
-## I've Been Killing Slimes for 300 Years and Maxed Out My Level
+## [I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://ranobedb.org/series/6384)
 
 - Vol. 18 - 2026-07-14
 - Vol. 19 - 2026-12-08
@@ -200,19 +200,19 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - スライム倒して300年、知らないうちにレベルMAXになってました28 - TBA
 - スライム倒して300年、知らないうちにレベルMAXになってました29 - TBA
 
-## The Tale of a Little Alchemist Blessed by the Spirits
+## [The Tale of a Little Alchemist Blessed by the Spirits](https://ranobedb.org/series/11893)
 
 - Vol. 3 - 2026-07-16
 - Vol. 4 - 2026-10-29
 - Vol. 5 - 2027-04-13
 - 王都の外れの錬金術師 6 ~ハズレ職業だったので、のんびりお店経営します~ - TBA
 
-## The Hero and the Sage, Reincarnated and Engaged
+## [The Hero and the Sage, Reincarnated and Engaged](https://ranobedb.org/series/13447)
 
 - Volume 7 - 2026-07-20
 - 英雄と賢者の転生婚 8〜かつての好敵手と婚約して最強夫婦になりました〜 - TBA
 
-## The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World
+## [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://ranobedb.org/series/13007)
 
 - Volume 4 - 2026-08-07
 - Volume 5 - 2026-10-28
@@ -222,19 +222,19 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 転生したら最強種たちが住まう島でした。この島でスローライフを楽しみます 9巻 - TBA
 - 転生したら最強種たちが住まう島でした。この島でスローライフを楽しみます 10巻 - TBA
 
-## An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!
+## [An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://ranobedb.org/series/12984)
 
 - Volume 13 - 2026-08-10
 - 陰キャの僕に罰ゲームで告白してきたはずのギャルが、どう見ても僕にベタ惚れです14 - TBA
 
-## Kunon the Sorcerer Can See
+## [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340)
 
 - Vol. 6 - 2026-08-11
 - 魔術師クノンは見えている 7 - TBA
 - 魔術師クノンは見えている 8 - TBA
 - 魔術師クノンは見えている 9 - TBA
 
-## The Angel Next Door Spoils Me Rotten
+## [The Angel Next Door Spoils Me Rotten](https://ranobedb.org/series/9601)
 
 - Vol. 10 - 2026-08-11
 - お隣の天使様にいつの間にか駄目人間にされていた件11 - TBA
@@ -243,25 +243,25 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - お隣の天使様にいつの間にか駄目人間にされていた件 special book - TBA
 - お隣の天使様にいつの間にか駄目人間にされていた件13 - TBA
 
-## Fired? But I Maintain All the Software!
+## [Fired? But I Maintain All the Software!](https://ranobedb.org/series/12127)
 
 - Volume 2 - 2026-08-12
 - Volume 3 - 2026-11-06
 - え、社内システム全てワンオペしている私を解雇ですか?4 - TBA
 
-## Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City
+## [Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://ranobedb.org/series/12647)
 
 - Vol. 8 - 2026-08-27
 - Vol. 9 - 2027-03-02
 - お気楽領主の楽しい領地防衛 10 〜生産系魔術で名もなき村を最強の城塞都市に〜 - TBA
 
-## Nia Liston: The Merciless Maiden
+## [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006)
 
 - Volume 10 - 2026-09-01
 - Volume 11 - 2026-12-09
 - 凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 - TBA
 
-## Flung into a New World? Time to Lift the 200-Year Curse!
+## [Flung into a New World? Time to Lift the 200-Year Curse!](https://ranobedb.org/series/10470)
 
 - Volume 5 - 2026-09-08
 - Volume 6 - 2027-01-04
@@ -272,11 +272,11 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 異世界に落とされた…浄化は基本!11 - TBA
 - 異世界に落とされた…浄化は基本!12 - TBA
 
-## The Invincible Little Lady
+## [The Invincible Little Lady](https://ranobedb.org/series/7127)
 
 - Volume 8 - 2026-09-15
 
-## The Water Magician
+## [The Water Magician](https://ranobedb.org/series/11957)
 
 - Arc 1 Volume 7 - 2026-09-15
 - Arc 2 Volume 1 - 2027-02-16
@@ -292,7 +292,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 水属性の魔法使い 第三部 東方諸国編6 - TBA
 - 水属性の魔法使い 第三部 東方諸国編7 - TBA
 
-## Secrets of the Silent Witch
+## [Secrets of the Silent Witch](https://ranobedb.org/series/12295)
 
 - Vol. 8 - 2026-09-22
 - サイレント・ウィッチ IX 沈黙の魔女の隠しごと - TBA
@@ -300,20 +300,20 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - サイレント・ウィッチ XI 沈黙の魔女の隠しごと - TBA
 - サイレント・ウィッチ XII 沈黙の魔女の隠しごと - TBA
 
-## From Villainess to Healer
+## [From Villainess to Healer](https://ranobedb.org/series/13419)
 
 - Volume 7 - 2026-09-23
 
-## The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me
+## [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://ranobedb.org/series/15011)
 
 - Volume 8 - 2026-09-23
 - 毒の王9 最強の力に覚醒した俺は美姫たちを従え、発情ハーレムの主となる - TBA
 
-## Survival in Another World with My Mistress!
+## [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569)
 
 - Vol. 10 - 2026-09-24
 
-## EXP Is Golden
+## [EXP Is Golden](https://ranobedb.org/series/14414)
 
 - Volume 5 - The Queen of Destruction’s Cataclysmic Solo Boss Raid - 2026-09-25
 - Volume 6 - 2027-02-10
@@ -321,7 +321,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 黄金の経験値 VIII 特定災害生物「魔王」大戦アウトブレイク - TBA
 - 黄金の経験値 IX 特定災害生物「魔王」大戦バッドエンド - TBA
 
-## Looks like a Job for a Maid! The Tales of a Dismissed Supermaid
+## [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712)
 
 - Volume 4 - 2026-09-28
 - Volume 5 - 2026-12-28
@@ -329,24 +329,24 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました7 - TBA
 - メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました8 - TBA
 
-## How I Became King by Eating Monsters
+## [How I Became King by Eating Monsters](https://ranobedb.org/series/15512)
 
 - Vol.6 - 2026-09-30
 
-## Peddler in Another World: I Can Go Back to My World Whenever I Want!
+## [Peddler in Another World: I Can Go Back to My World Whenever I Want!](https://ranobedb.org/series/10782)
 
 - Volume 13 - 2026-10-07
 
-## Free Life Fantasy Online: Immortal Princess
+## [Free Life Fantasy Online: Immortal Princess](https://ranobedb.org/series/8809)
 
 - Vol. 11 - 2026-10-08
 
-## Witch and Mercenary
+## [Witch and Mercenary](https://ranobedb.org/series/14951)
 
 - Vol. 7 - 2026-10-08
 - 魔女と傭兵 8 - TBA
 
-## The Amazing Village Creator: Slow Living with the Village Building Cheat Skill
+## [The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](https://ranobedb.org/series/11782)
 
 - Volume 5 - 2026-10-12
 - 万能「村づくり」チートでお手軽スローライフ ~村ですが何か?~ 6巻 - TBA
@@ -355,7 +355,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 万能「村づくり」チートでお手軽スローライフ 〜村ですが何か?〜 9巻 - TBA
 - 万能「村づくり」チートでお手軽スローライフ 〜村ですが何か?〜 10巻 - TBA
 
-## Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+## [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247)
 
 - Vol. 18 - 2026-10-13
 - 痛いのは嫌なので防御力に極振りしたいと思います。 19 - TBA
@@ -363,40 +363,40 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝2 - TBA
 - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝3 - TBA
 
-## Witches Can't Be Collared
+## [Witches Can't Be Collared](https://ranobedb.org/series/16146)
 
 - Vol. 3 - 2026-10-13
 
-## Fluffy Café in Another World
+## [Fluffy Café in Another World](https://ranobedb.org/series/11019)
 
 - Vol. 2 - 2026-10-15
 - Vol. 3 - 2027-02-04
 
-## Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon
+## [Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://ranobedb.org/series/7422)
 
 - Volume 17 - 2026-10-28
 
-## Didn't I Say to Make My Abilities Average in the Next Life?!
+## [Didn't I Say to Make My Abilities Average in the Next Life?!](https://ranobedb.org/series/5611)
 
 - Vol. 21 - 2026-11-03
 
-## The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide
+## [The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide](https://ranobedb.org/series/14258)
 
 - The World's Strongest Witch, Vol. 3: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide - 2026-11-10
 - 世界最強の魔女、始めました 〜私だけ『攻略サイト』を見れる世界で自由に生きます〜 4巻 - TBA
 - 世界最強の魔女、始めました 〜私だけ『攻略サイト』を見れる世界で自由に生きます〜 5巻 - TBA
 - 世界最強の魔女、始めました 〜私だけ『攻略サイト』を見れる世界で自由に生きます〜 6巻 - TBA
 
-## A Late-Start Tamer's Laid-Back Life
+## [A Late-Start Tamer's Laid-Back Life](https://ranobedb.org/series/8080)
 
 - Volume 15 - 2026-12-23
 - 出遅れテイマーのその日暮らし 16 - TBA
 
-## Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+## [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](https://ranobedb.org/series/9708)
 
 - Vol. 17 - 2027-01-19
 
-## She Professed Herself Pupil of the Wise Man
+## [She Professed Herself Pupil of the Wise Man](https://ranobedb.org/series/3648)
 
 - Vol. 18 - 2027-01-19
 - Vol. 19 - 2027-05-11
@@ -405,45 +405,45 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 賢者の弟子を名乗る賢者 22 - TBA
 - 賢者の弟子を名乗る賢者 23 - TBA
 
-## A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+## [A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://ranobedb.org/series/13495)
 
 - ブチ切れ令嬢は報復を誓いました。8 〜魔導書の力で祖国を叩き潰します〜 - TBA
 
-## Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive
+## [Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://ranobedb.org/series/14294)
 
 - チュートリアルが始まる前に5 ボスキャラ達を破滅させない為に俺ができる幾つかの事 - TBA
 - チュートリアルが始まる前に6 ボスキャラ達を破滅させない為に俺ができる幾つかの事 - TBA
 
-## Heir to a Monstermancer
+## [Heir to a Monstermancer](https://ranobedb.org/series/17608)
 
 - 魔物使いの娘3 〜一角獣の祝祭〜 - TBA
 - 魔物使いの娘4 〜一火の山の街〜 - TBA
 
-## I Shall Survive Using Potions!
+## [I Shall Survive Using Potions!](https://ranobedb.org/series/6941)
 
 - ポーション頼みで生き延びます!12 - TBA
 
-## I'm the Evil Lord of an Intergalactic Empire!
+## [I'm the Evil Lord of an Intergalactic Empire!](https://ranobedb.org/series/11131)
 
 - 俺は星間国家の悪徳領主!12 - TBA
 
-## Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole
+## [Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://ranobedb.org/series/10375)
 
 - 魔力チートな魔女になりました〜創造魔法で気ままな異世界生活〜10 - TBA
 
-## My Quiet Blacksmith Life in Another World
+## [My Quiet Blacksmith Life in Another World](https://ranobedb.org/series/10386)
 
 - 鍛冶屋ではじめる異世界スローライフ 13 - TBA
 - 鍛冶屋ではじめる異世界スローライフ 14 - TBA
 
-## The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+## [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484)
 
 - 転生王女と天才令嬢の魔法革命10 - TBA
 - 転生王女と天才令嬢の魔法革命11 - TBA
 - 転生王女と天才令嬢の魔法革命12 - TBA
 - 転生王女と天才令嬢の魔法革命13 - TBA
 
-## Welcome to Japan, Ms. Elf!
+## [Welcome to Japan, Ms. Elf!](https://ranobedb.org/series/8473)
 
 - 日本へようこそエルフさん。 11 - TBA
 
