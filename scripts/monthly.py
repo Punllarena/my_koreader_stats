@@ -2,10 +2,11 @@ import sqlite3
 from datetime import datetime, date, timedelta
 from collections import defaultdict
 from pathlib import Path
+from paths import DB_PATH, STATS
 from toc import add_toc
 
-DB_PATH = "statistics.sqlite3"
-OUTPUT_DIR = "koreader_monthly_stats"
+
+OUTPUT_DIR = STATS / "monthly"
 
 # Volume pattern configurations
 # Format: 'pattern': 'display_name'
@@ -47,7 +48,7 @@ VOLUME_PATTERNS = {
     r' Vol\.? (\d+)$': 'Vol',    # Vol at end without punctuation
 }
 
-Path(OUTPUT_DIR).mkdir(exist_ok=True)
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 def seconds_to_hm(seconds):
     hours = seconds // 3600
@@ -252,7 +253,7 @@ for (year, month), titles in sorted(monthly_titles.items()):
     total_time = sum(t["time"] for t in titles.values())
     reading_days = monthly_days[(year, month)]
 
-    output_path = Path(OUTPUT_DIR) / f"{year}-{month:02d}.md"
+    output_path = OUTPUT_DIR / f"{year}-{month:02d}.md"
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(f"# Titles Read for the Month of {month_name} {year}\n\n")

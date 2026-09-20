@@ -1,4 +1,8 @@
-"""Run: python3 test_updates.py"""
+"""Run: python3 tests/test_updates.py"""
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 from updates import VOL_RE, normalize_series, squash, fmt_date
 
 

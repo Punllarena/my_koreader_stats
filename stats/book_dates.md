@@ -109,7 +109,7 @@ The Angel Next Door Spoils Me Rotten:
   9:
     - 2026-01-24
     - 2026-01-27
-Meals Made to Order: How to Domesticate Your Dragon with Delicacies!:
+Meals Made to Order: How to Domesticate Your Dragon with Delicacies:
   - 2025-05-01
   - 2025-05-02
 She Professed Herself Pupil of the Wise Man:
@@ -151,7 +151,7 @@ Witch and Mercenary:
     - 2026-02-07
     - 2026-02-08
   6:
-    - 2026-06-24
+    - 2026-04-08
     - 2026-06-25
 Dragon Daddy Diaries: A Girl Grows to Greatness:
   1:
@@ -740,6 +740,9 @@ To Another World... with Land Mines:
   8:
     - 2026-03-17
     - 2026-03-20
+  9:
+    - 2026-03-20
+    - 2026-03-22
   10:
     - 2026-03-23
     - 2026-03-24
@@ -749,9 +752,6 @@ To Another World... with Land Mines:
   12:
     - 2026-03-27
     - 2026-03-29
-To Another World... with Land Mines! V09:
-  - 2026-03-20
-  - 2026-03-22
 The Tale of a Little Alchemist Blessed by the Spirits:
   1:
     - 2026-04-01
@@ -832,10 +832,6 @@ Dimension Wave:
   7:
     - 2026-06-10
     - 2026-06-12
-2026-06-05-22-55-40 Aneko Yusagi; Ryo Ueda; Roy Nukia; Ambriella Ceridwen -  Dimension Wave_:
-  4:
-    - 2026-06-05
-    - 2026-06-05
 The Accursed Chef and His Pair of Furry Foodies:
   1:
     - 2026-06-12
@@ -1021,5 +1017,5 @@ Death’s Daughter and the Ebony Blade:
     - 2026-09-07
     - 2026-09-07
   7:
-    - 2026-09-08
+    - 2026-09-07
     - 2026-09-08

@@ -2,12 +2,13 @@ import sqlite3
 from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
+from paths import DB_PATH, STATS
 from toc import add_toc
 
-DB_PATH = "statistics.sqlite3"
-OUTPUT_DIR = "koreader_yearly_stats"
 
-Path(OUTPUT_DIR).mkdir(exist_ok=True)
+OUTPUT_DIR = STATS / "yearly"
+
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 def seconds_to_hm(seconds):
     hours = seconds // 3600
@@ -42,7 +43,7 @@ for year, titles in sorted(yearly_titles.items()):
     total_time = sum(titles.values())
     total_titles = len(titles)
 
-    output_path = Path(OUTPUT_DIR) / f"{year}.md"
+    output_path = OUTPUT_DIR / f"{year}.md"
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(f"# Reading Year in Review — {year}\n\n")

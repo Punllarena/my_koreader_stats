@@ -1,7 +1,8 @@
 # my_koreader_stats
 
 Turns a KOReader `statistics.sqlite3` into readable markdown: what I read per month and
-per year, when I read each book, and which volumes of my series have come out since.
+per year, how fast I read it, a Wrapped-style recap, and which volumes of my series have
+come out since.
 
 ## Usage
 
@@ -9,24 +10,41 @@ Copy `statistics.sqlite3` out of your KOReader device (`koreader/settings/statis
 into this directory, then:
 
 ```sh
-./regen.sh          # rebuild every file below
-python3 updates.py  # or run a single generator
+./regen.sh                  # rebuild everything under stats/
+python3 scripts/wrapped.py  # or run a single generator, from any directory
 ```
 
-Python 3 only, no dependencies. `updates.py` queries [RanobeDB](https://ranobedb.org) over
-HTTP and caches every response in `.ranobedb_cache.json`; delete that file to refresh.
+Python 3 only, no dependencies. `scripts/updates.py` queries [RanobeDB](https://ranobedb.org)
+over HTTP and caches every response in `.ranobedb_cache.json`; delete that file to refresh.
 
-## What gets generated
+## Layout
+
+```
+regen.sh              run every generator
+statistics.sqlite3    the KOReader database, copied off the device
+scripts/              the generators, plus paths.py, titles.py and toc.py
+stats/                everything generated
+tests/                self-checks
+```
 
 | Script | Output |
 | --- | --- |
-| `koreader_monthly_human_dates_and_streaks.py` | `koreader_monthly_stats/YYYY-MM.md` — titles read that month, read time, last read date, reading days and longest streak |
-| `stat_output_yearly.py` | `koreader_yearly_stats/YYYY.md` — titles read that year with read time and totals |
-| `book_dates.py` | `book_dates.md` — first and last read date per volume, grouped by series |
-| `updates.py` | `updates_by_series.md`, `updates_by_month.md` — volumes newer than the ones read, per RanobeDB (English releases) |
+| `scripts/monthly.py` | `stats/monthly/YYYY-MM.md` — titles read that month, read time, last read date, reading days and longest streak |
+| `scripts/yearly.py` | `stats/yearly/YYYY.md` — titles read that year with read time and totals |
+| `scripts/book_dates.py` | `stats/book_dates.md` — first and last read date per volume, grouped by series |
+| `scripts/pace.py` | `stats/pace.md` — pages/hour overall, per year and per book; heaviest days and longest sittings; how long each book took start to finish |
+| `scripts/wrapped.py` | `stats/wrapped.md` — a Wrapped-style recap per year and quarter, each ending in a one-line caption to paste |
+| `scripts/updates.py` | `stats/updates_by_series.md`, `stats/updates_by_month.md` — volumes newer than the ones read, per RanobeDB (English releases) |
 
-`toc.py` adds a table of contents to each generated file; `test_updates.py` and
-`python3 toc.py` are the self-checks.
+`scripts/paths.py` holds every path, `scripts/titles.py` parses KOReader titles into a series
+and volume number, and `scripts/toc.py` adds a table of contents to each generated file.
+
+## Checks
+
+```sh
+for t in tests/test_*.py; do python3 "$t"; done
+python3 scripts/toc.py   # the TOC self-check lives with the module
+```
 
 ## How `updates.py` decides what is unread
 

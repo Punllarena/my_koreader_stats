@@ -1,17 +1,10 @@
 import sqlite3
-import re
 from datetime import datetime
 from collections import defaultdict
 
-DB_PATH = "statistics.sqlite3"
+from paths import DB_PATH, STATS
+from titles import split_volume
 
-VOL_RE = re.compile(r'^(.*?)\s+(?:Vol\.|Volume)\s*(\d+)', re.IGNORECASE)
-PAREN_RE = re.compile(r'\s*\([^)]*\)\s*$')  # trailing parenthetical e.g. "(Light Novel)"
-
-
-def normalize_series(title):
-    title = PAREN_RE.sub('', title)
-    return title.rstrip(' ,:!').strip()
 
 conn = sqlite3.connect(DB_PATH)
 cur = conn.cursor()
@@ -31,18 +24,14 @@ series = defaultdict(dict)
 for title, start, last in cur.fetchall():
     s = datetime.fromtimestamp(start).strftime("%Y-%m-%d")
     l = datetime.fromtimestamp(last).strftime("%Y-%m-%d")
-    m = VOL_RE.match(title)
-    if m:
-        series_title = normalize_series(m.group(1))
-        vol = int(m.group(2))
-    else:
-        series_title = title
-        vol = None
-    series[series_title][vol] = (s, l)
+    series_title, vol = split_volume(title)
+    # two KOReader entries can be the same volume (a re-import, an export filename): keep the outer dates
+    prev = series[series_title].get(vol)
+    series[series_title][vol] = (min(s, prev[0]), max(l, prev[1])) if prev else (s, l)
 
 conn.close()
 
-OUTPUT = "book_dates.md"
+OUTPUT = STATS / "book_dates.md"
 
 with open(OUTPUT, "w", encoding="utf-8") as f:
     for series_title, volumes in series.items():

@@ -3,12 +3,8 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-for script in \
-    koreader_monthly_human_dates_and_streaks.py \
-    stat_output_yearly.py \
-    book_dates.py \
-    updates.py
+for script in monthly yearly book_dates pace wrapped updates
 do
     echo "== $script"
-    python3 "$script"
+    python3 "scripts/$script.py"
 done

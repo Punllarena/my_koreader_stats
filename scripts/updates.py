@@ -10,27 +10,19 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
+from paths import CACHE_PATH, DB_PATH, STATS
+from titles import VOL_RE, normalize_series, split_volume
 from toc import add_toc
 
-DB_PATH = "statistics.sqlite3"
-OUTPUT_BY_SERIES = "updates_by_series.md"
-OUTPUT_BY_MONTH = "updates_by_month.md"
-CACHE_PATH = Path(".ranobedb_cache.json")
+
+OUTPUT_BY_SERIES = STATS / "updates_by_series.md"
+OUTPUT_BY_MONTH = STATS / "updates_by_month.md"
 API = "https://ranobedb.org/api/v0"
 SERIES_URL = "https://ranobedb.org/series/{}"
 LANG = "en"  # release language to report
 UA = "my_koreader_stats/1.0"  # ranobedb 403s the default urllib agent
 
-VOL_RE = re.compile(r'^(.*?)\s+(?:Vol\.|Volume|V)\s*(\d+)', re.IGNORECASE)
-PAREN_RE = re.compile(r'\s*\([^)]*\)\s*$')
-EXPORT_RE = re.compile(r'^\d{4}(?:-\d{2}){5}\s+.*?\s+-\s+')  # "<timestamp> <authors> - Title_" export filename
-
 cache = json.loads(CACHE_PATH.read_text()) if CACHE_PATH.exists() else {}
-
-
-def normalize_series(title):
-    title = EXPORT_RE.sub('', title).rstrip('_')
-    return PAREN_RE.sub('', title).rstrip(' ,:!').strip()
 
 
 def get(url):
@@ -86,12 +78,8 @@ def read_volumes():
     highest = defaultdict(int)
     titles = {squash(title) for (title,) in rows}
     for (title,) in rows:
-        m = VOL_RE.match(title)
-        if m:
-            highest[normalize_series(m.group(1))] = max(
-                highest[normalize_series(m.group(1))], int(m.group(2)))
-        else:
-            highest[normalize_series(title)] = max(highest[normalize_series(title)], 0)
+        series, vol = split_volume(title)
+        highest[series] = max(highest[series], vol or 0)
     return highest, titles
 
 
