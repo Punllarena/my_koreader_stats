@@ -2,6 +2,7 @@ import sqlite3
 from datetime import datetime, date, timedelta
 from collections import defaultdict
 from pathlib import Path
+from toc import add_toc
 
 DB_PATH = "statistics.sqlite3"
 OUTPUT_DIR = "koreader_monthly_stats"
@@ -300,6 +301,8 @@ for (year, month), titles in sorted(monthly_titles.items()):
         f.write(f"- 📚 Total Titles: {len(titles)}\n")
         f.write(f"- Total Reading Days: {len(reading_days)}\n")
         f.write(f"- Longest Reading Streak: {longest_streak(reading_days)} days\n")
+
+    add_toc(output_path)
 
         
 

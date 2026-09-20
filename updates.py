@@ -10,6 +10,8 @@ from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
+from toc import add_toc
+
 DB_PATH = "statistics.sqlite3"
 OUTPUT_BY_SERIES = "updates_by_series.md"
 OUTPUT_BY_MONTH = "updates_by_month.md"
@@ -114,6 +116,7 @@ def write_grouped(path, heading, updates, unmatched, key, line, sort_key):
             f.write("\n## Not found on RanobeDB\n\n")
             for name in unmatched:
                 f.write(f"- {name}\n")
+    add_toc(path)
 
 
 def main():

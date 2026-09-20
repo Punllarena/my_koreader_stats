@@ -1,6 +1,36 @@
-# Volume Updates by Release Month (2026-09-19)
+# Volume Updates by Release Month (2026-09-20)
 
 Volumes newer than what you've read, per RanobeDB (en releases).
+
+## Contents
+
+- [September 2024](#september-2024)
+- [January 2025](#january-2025)
+- [May 2025](#may-2025)
+- [June 2025](#june-2025)
+- [September 2025](#september-2025)
+- [October 2025](#october-2025)
+- [November 2025](#november-2025)
+- [December 2025](#december-2025)
+- [January 2026](#january-2026)
+- [February 2026](#february-2026)
+- [March 2026](#march-2026)
+- [April 2026](#april-2026)
+- [May 2026](#may-2026)
+- [June 2026](#june-2026)
+- [July 2026](#july-2026)
+- [August 2026](#august-2026)
+- [September 2026](#september-2026)
+- [October 2026](#october-2026)
+- [November 2026](#november-2026)
+- [December 2026](#december-2026)
+- [January 2027](#january-2027)
+- [February 2027](#february-2027)
+- [March 2027](#march-2027)
+- [April 2027](#april-2027)
+- [May 2027](#may-2027)
+- [TBA](#tba)
+- [Not found on RanobeDB](#not-found-on-ranobedb)
 
 ## September 2024
 

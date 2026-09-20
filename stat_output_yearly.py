@@ -2,6 +2,7 @@ import sqlite3
 from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
+from toc import add_toc
 
 DB_PATH = "statistics.sqlite3"
 OUTPUT_DIR = "koreader_yearly_stats"
@@ -56,6 +57,8 @@ for year, titles in sorted(yearly_titles.items()):
         f.write(f"\n## 📚 Total Titles: {total_titles}\n\n")
         f.write("## ⌛ Total Reading Time: ")
         f.write(seconds_to_hm(total_time))
+
+    add_toc(output_path)
 
 conn.close()
 
