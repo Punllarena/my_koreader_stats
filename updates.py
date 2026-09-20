@@ -22,11 +22,13 @@ UA = "my_koreader_stats/1.0"  # ranobedb 403s the default urllib agent
 
 VOL_RE = re.compile(r'^(.*?)\s+(?:Vol\.|Volume|V)\s*(\d+)', re.IGNORECASE)
 PAREN_RE = re.compile(r'\s*\([^)]*\)\s*$')
+EXPORT_RE = re.compile(r'^\d{4}(?:-\d{2}){5}\s+.*?\s+-\s+')  # "<timestamp> <authors> - Title_" export filename
 
 cache = json.loads(CACHE_PATH.read_text()) if CACHE_PATH.exists() else {}
 
 
 def normalize_series(title):
+    title = EXPORT_RE.sub('', title).rstrip('_')
     return PAREN_RE.sub('', title).rstrip(' ,:!').strip()
 
 
@@ -71,7 +73,7 @@ def fmt_date(n):
 
 
 def read_volumes():
-    """series title -> highest volume number read (0 if unnumbered)."""
+    """(series title -> highest volume number read, squashed titles of every book read)."""
     conn = sqlite3.connect(DB_PATH)
     rows = conn.execute("""
         SELECT DISTINCT b.title
@@ -81,6 +83,7 @@ def read_volumes():
     conn.close()
 
     highest = defaultdict(int)
+    titles = {squash(title) for (title,) in rows}
     for (title,) in rows:
         m = VOL_RE.match(title)
         if m:
@@ -88,7 +91,16 @@ def read_volumes():
                 highest[normalize_series(m.group(1))], int(m.group(2)))
         else:
             highest[normalize_series(title)] = max(highest[normalize_series(title)], 0)
-    return highest
+    return highest, titles
+
+
+def vol_label(series_title, book_title):
+    """What to call a volume: its own title minus the series prefix (sort_order counts side stories)."""
+    if squash(book_title).startswith(squash(series_title)):
+        tail = book_title[len(series_title):].lstrip(" ,:-")
+        if tail:
+            return tail
+    return book_title
 
 
 def month_of(update):
@@ -121,10 +133,11 @@ def write_grouped(path, heading, updates, unmatched, key, line, sort_key):
 
 def main():
     updates, unmatched = [], []
+    highest, read_titles = read_volumes()
 
     # several KOReader titles can resolve to one series ("X" and "X: Subtitle") - keep the furthest read
     furthest = {}
-    for name, last_read in sorted(read_volumes().items()):
+    for name, last_read in sorted(highest.items()):
         sid = find_series_id(name)
         if sid is None:
             unmatched.append(name)
@@ -133,24 +146,31 @@ def main():
 
     for sid, last_read in furthest.items():
         series = get(f"{API}/series/{sid}")["series"]
-        for book in series.get("books", []):
-            if book.get("book_type") != "main":
-                continue
+        books = [b for b in series.get("books", []) if b.get("book_type") == "main"]
+
+        # a volume number can cover several books ("Volume 7 Exordium"/"Finale"), so a book whose
+        # title we actually read counts as read even when its number is no higher
+        for book in books:
+            if squash(book["title"]) in read_titles and book.get("sort_order"):
+                last_read = max(last_read, book["sort_order"])
+
+        for book in books:
             vol = book.get("sort_order")
             if vol is None or vol <= last_read:
                 continue
             date = (book.get("c_release_dates") or {}).get(LANG)
-            updates.append((series["title"], vol, fmt_date(date)))
+            updates.append((series["title"], vol, fmt_date(date),
+                            vol_label(series["title"], book["title"])))
 
     # series with something releasing soonest first, series that are all TBA last
     soonest = {}
-    for title, _, date in updates:
+    for title, _, date, _label in updates:
         soonest[title] = min(soonest.get(title, (True, "")), (date == "TBA", date))
     write_grouped(OUTPUT_BY_SERIES, "Volume Updates by Series", updates, unmatched,
-                  key=lambda u: u[0], line=lambda u: f"- Volume {u[1]} - {u[2]}",
+                  key=lambda u: u[0], line=lambda u: f"- {u[3]} - {u[2]}",
                   sort_key=lambda u: (soonest[u[0]], u[0], u[1]))
     write_grouped(OUTPUT_BY_MONTH, "Volume Updates by Release Month", updates, unmatched,
-                  key=month_of, line=lambda u: f"- {u[0]} - Volume {u[1]} - {u[2]}",
+                  key=month_of, line=lambda u: f"- {u[0]} - {u[3]} - {u[2]}",
                   sort_key=lambda u: (u[2] == "TBA", u[2], u[0], u[1]))
 
     print(f"{len(updates)} newer volumes across {len(set(u[0] for u in updates))} series"
