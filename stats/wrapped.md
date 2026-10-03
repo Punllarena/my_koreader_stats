@@ -1,4 +1,4 @@
-# Reading Wrapped (2026-09-20)
+# Reading Wrapped (2026-10-03)
 
 A recap per year and per quarter. The blockquote under each one is the caption.
 
@@ -9,39 +9,57 @@ A recap per year and per quarter. The blockquote under each one is the caption.
 
 ## 2026 (in progress)
 
-- 📚 **169 books** · 38,844 pages · **314h 3m** (+8% on the period before)
+- 📚 **181 books** · 43,342 pages · **348h 42m** (+20% on the period before)
 - 🏆 Most time with **To Another World... with Land Mines** — 36h 14m across 12 volumes
-- 🔥 Longest streak **93 days** · read on 258 days
-- 🥇 Biggest day **2026-09-08** — 4h 28m
+- 🔥 Longest streak **93 days** · read on 273 days
+- 🥇 Biggest day **2026-09-30** — 6h 8m
 - 🕐 Peak reading hour **06:00**
 
 ### Top 5
 
 1. The Invincible Little Lady: Volume 7 — 4h 6m
-2. To Another World... with Land Mines! Volume 3 — 3h 32m
-3. EXP Is Golden: Volume 4 — 3h 31m
-4. To Another World... with Land Mines! Volume 6 — 3h 17m
-5. To Another World... with Land Mines! Volume 11 — 3h 16m
+2. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 2 — 3h 59m
+3. EXP Is Golden: Volume 5 — 3h 59m
+4. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 3 — 3h 49m
+5. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 — 3h 44m
 
-> 2026 wrapped: 169 books, 314 hours, 38,844 pages. Most time with To Another World... with Land Mines. Longest streak 93 days. 📚
+> 2026 wrapped: 181 books, 348 hours, 43,342 pages. Most time with To Another World... with Land Mines. Longest streak 93 days. 📚
 
-### 2026 Q3 (in progress)
+### 2026 Q4 (in progress)
 
-- 📚 **56 books** · 14,023 pages · **100h 14m** (-17% on the period before)
-- 🏆 Most time with **Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀** — 19h 9m across 13 volumes
-- 🔥 Longest streak **52 days** · read on 79 days
-- 🥇 Biggest day **2026-09-08** — 4h 28m
+- 📚 **5 books** · 1,602 pages · **12h 43m** (-90% on the period before)
+- 🏆 Most time with **The Diary of a Middle-Aged Sage’s Carefree Life in Another World** — 12h 43m across 5 volumes
+- 🔥 Longest streak **3 days** · read on 3 days
+- 🥇 Biggest day **2026-10-02** — 6h 4m
 - 🕐 Peak reading hour **06:00**
 
 #### Top 5
 
-1. The Invincible Little Lady: Volume 7 — 3h 41m
-2. She Professed Herself Pupil of the Wise Man Vol. 17 — 2h 58m
-3. Isekai Walking: Volume 4 Magic Nation Eva - Dungeon Arc — 2h 48m
-4. Looks like a Job for a Maid! The Tales of a Dismissed Supermaid: Volume 3 — 2h 47m
-5. Flung into a New World? Time to Lift the 200-Year Curse! Volume 4 — 2h 44m
+1. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 3 — 3h 49m
+2. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 4 — 3h 29m
+3. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 — 3h 6m
+4. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 2 — 2h 9m
+5. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 6 — 0h 7m
 
-> 2026 Q3 wrapped: 56 books, 100 hours, 14,023 pages. Most time with Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀. Longest streak 52 days. 📚
+> 2026 Q4 wrapped: 5 books, 12 hours, 1,602 pages. Most time with The Diary of a Middle-Aged Sage’s Carefree Life in Another World. Longest streak 3 days. 📚
+
+### 2026 Q3
+
+- 📚 **64 books** · 16,919 pages · **122h 10m** (+1% on the period before)
+- 🏆 Most time with **Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀** — 19h 9m across 13 volumes
+- 🔥 Longest streak **52 days** · read on 91 days
+- 🥇 Biggest day **2026-09-30** — 6h 8m
+- 🕐 Peak reading hour **22:00**
+
+#### Top 5
+
+1. EXP Is Golden: Volume 5 — 3h 59m
+2. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 — 3h 44m
+3. The Invincible Little Lady: Volume 7 — 3h 41m
+4. The Water Magician: Arc 1 Volume 7 — 3h 17m
+5. She Professed Herself Pupil of the Wise Man Vol. 17 — 2h 58m
+
+> 2026 Q3 wrapped: 64 books, 122 hours, 16,919 pages. Most time with Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀. Longest streak 52 days. 📚
 
 ### 2026 Q2
 

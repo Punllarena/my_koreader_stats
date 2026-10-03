@@ -1,4 +1,4 @@
-# Volume Updates by Release Month (2026-09-20)
+# Volume Updates by Release Month (2026-10-03)
 
 Volumes newer than what you've read, per RanobeDB (en releases).
 
@@ -7,9 +7,11 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [January 2025](#january-2025)
 - [May 2025](#may-2025)
 - [June 2025](#june-2025)
+- [August 2025](#august-2025)
 - [September 2025](#september-2025)
 - [October 2025](#october-2025)
 - [November 2025](#november-2025)
+- [December 2025](#december-2025)
 - [January 2026](#january-2026)
 - [February 2026](#february-2026)
 - [March 2026](#march-2026)
@@ -42,6 +44,10 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - Vol. 12: Reverse Babel of the Sleeping Saint - 2025-06-05
 
+## August 2025
+
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 7 - 2025-08-27
+
 ## September 2025
 
 - [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676) - Vol. 4 - 2025-09-25
@@ -55,6 +61,10 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Chillin' in Another World with Level 2 Super Cheat Powers](https://ranobedb.org/series/6363) - Volume 19 - 2025-11-19
 - [Kusunoki's Garden of Gods](https://ranobedb.org/series/12813) - Vol. 3 - 2025-11-25
 
+## December 2025
+
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 8 - 2025-12-03
+
 ## January 2026
 
 - [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - Volume 4 - 2026-01-07
@@ -66,6 +76,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 ## March 2026
 
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 9 - 2026-03-11
 - [Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim](https://ranobedb.org/series/10289) - Magical Explorer, Vol. 11: Reborn as a Side Character in a Fantasy Dating Sim - 2026-03-17
 - [The Tiny Witch from the Deep Woods](https://ranobedb.org/series/15046) - Volume 3 - 2026-03-18
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - Vol. 14: Requiem for Many Stars - 2026-03-26
@@ -78,12 +89,12 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## May 2026
 
 - [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676) - Vol. 6 - 2026-05-07
-- [Isekai Walking](https://ranobedb.org/series/13370) - Volume 6 - Eld Republic Arc - 2026-05-19
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - Volume 3 - Behold the Growth of My Students - 2026-05-22
 
 ## June 2026
 
 - [Kusunoki's Garden of Gods](https://ranobedb.org/series/12813) - Vol. 4 - 2026-06-09
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 10 - 2026-06-17
 - [To Another World... with Land Mines!](https://ranobedb.org/series/9208) - Volume 13 - 2026-06-22
 - [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - Volume 6 - 2026-06-23
 - [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](https://ranobedb.org/series/8466) - Let This Grieving Soul Retire: Volume 10 - 2026-06-24
@@ -102,27 +113,23 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Chillin' in Another World with Level 2 Super Cheat Powers](https://ranobedb.org/series/6363) - Volume 20 - 2026-08-04
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://ranobedb.org/series/13007) - Volume 4 - 2026-08-07
 - [An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://ranobedb.org/series/12984) - Volume 13 - 2026-08-10
-- [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340) - Vol. 6 - 2026-08-11
 - [The Angel Next Door Spoils Me Rotten](https://ranobedb.org/series/9601) - Vol. 10 - 2026-08-11
 - [Fired? But I Maintain All the Software!](https://ranobedb.org/series/12127) - Volume 2 - 2026-08-12
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - Volume 4 - I'll Save You from Being a Shut-in - 2026-08-14
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - Vol. 15: Awaken, Little Demon Girl! - 2026-08-20
-- [Isekai Walking](https://ranobedb.org/series/13370) - Volume 7 - Demon Kingdom Arc - 2026-08-26
 - [Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](https://ranobedb.org/series/12647) - Vol. 8 - 2026-08-27
 
 ## September 2026
 
-- [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006) - Volume 10 - 2026-09-01
 - [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676) - Vol. 7 - 2026-09-03
 - [Flung into a New World? Time to Lift the 200-Year Curse!](https://ranobedb.org/series/10470) - Volume 5 - 2026-09-08
 - [I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](https://ranobedb.org/series/10694) - Volume 11 - 2026-09-08
 - [The Invincible Little Lady](https://ranobedb.org/series/7127) - Volume 8 - 2026-09-15
-- [The Water Magician](https://ranobedb.org/series/11957) - Arc 1 Volume 7 - 2026-09-15
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 11 - 2026-09-16
 - [Secrets of the Silent Witch](https://ranobedb.org/series/12295) - Vol. 8 - 2026-09-22
 - [From Villainess to Healer](https://ranobedb.org/series/13419) - Volume 7 - 2026-09-23
 - [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://ranobedb.org/series/15011) - Volume 8 - 2026-09-23
 - [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569) - Vol. 10 - 2026-09-24
-- [EXP Is Golden](https://ranobedb.org/series/14414) - Volume 5 - The Queen of Destruction’s Cataclysmic Solo Boss Raid - 2026-09-25
 - [The Tiny Witch from the Deep Woods](https://ranobedb.org/series/15046) - Volume 5 - 2026-09-25
 - [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712) - Volume 4 - 2026-09-28
 - [How I Became King by Eating Monsters](https://ranobedb.org/series/15512) - Vol.6 - 2026-09-30
@@ -157,6 +164,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [To Another World... with Land Mines!](https://ranobedb.org/series/9208) - Volume 14 - 2026-12-01
 - [I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://ranobedb.org/series/6384) - Vol. 19 - 2026-12-08
 - [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006) - Volume 11 - 2026-12-09
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 12 - 2026-12-21
 - [A Late-Start Tamer's Laid-Back Life](https://ranobedb.org/series/8080) - Volume 15 - 2026-12-23
 - [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712) - Volume 5 - 2026-12-28
 - [The Tiny Witch from the Deep Woods](https://ranobedb.org/series/15046) - Volume 6 - 2026-12-28
@@ -284,6 +292,15 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [The Angel Next Door Spoils Me Rotten](https://ranobedb.org/series/9601) - お隣の天使様にいつの間にか駄目人間にされていた件 special book - TBA
 - [The Angel Next Door Spoils Me Rotten](https://ranobedb.org/series/9601) - お隣の天使様にいつの間にか駄目人間にされていた件13 - TBA
 - [The Devil Princess](https://ranobedb.org/series/13673) - 悪魔公女7 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 13 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 14 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 15 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 16 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 17 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 18 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 19 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記 20 - TBA
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - アラフォー賢者の異世界生活日記21 - TBA
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - 異世界転移して教師になったが、魔女と恐れられている件6 ~教師一筋なので恋愛なんかしている暇はありません~ - TBA
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - 異世界転移して教師になったが、魔女と恐れられている件7 〜魔導の深淵を知るべく、是が非でも魔術具を手に入れます〜 - TBA
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - 異世界転移して教師になったが、魔女と恐れられている件8 〜失われた魔法陣を伝授し、魔術の概念を覆します〜 - TBA

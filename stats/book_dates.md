@@ -79,6 +79,9 @@ Nia Liston: The Merciless Maiden:
   9:
     - 2026-06-16
     - 2026-06-17
+  10:
+    - 2026-09-26
+    - 2026-09-26
 RVing My Way into Exile with My Beloved Cat: This Villainess Is Trippin’:
   3:
     - 2025-04-24
@@ -176,6 +179,9 @@ EXP Is Golden:
   4:
     - 2026-01-13
     - 2026-01-14
+  5:
+    - 2026-09-28
+    - 2026-09-29
 Heroine? Saint? No, I'm an All-Works Maid (And Proud of It):
   1:
     - 2025-05-09
@@ -330,6 +336,9 @@ Kunon the Sorcerer Can See:
   5:
     - 2026-05-01
     - 2026-05-03
+  6:
+    - 2026-09-27
+    - 2026-09-28
 The Water Magician: Arc 1:
   1:
     - 2025-08-12
@@ -349,6 +358,9 @@ The Water Magician: Arc 1:
   6:
     - 2026-05-13
     - 2026-05-14
+  7:
+    - 2026-09-29
+    - 2026-09-30
 Isekai Walking:
   1:
     - 2025-08-16
@@ -364,7 +376,13 @@ Isekai Walking:
     - 2026-09-15
   5:
     - 2026-09-16
-    - 2026-09-18
+    - 2026-09-20
+  6:
+    - 2026-09-20
+    - 2026-09-23
+  7:
+    - 2026-09-23
+    - 2026-09-26
 Secrets of the Silent Witch:
   6:
     - 2025-08-20
@@ -1019,3 +1037,22 @@ Death’s Daughter and the Ebony Blade:
   7:
     - 2026-09-07
     - 2026-09-08
+The Diary of a Middle-Aged Sage’s Carefree Life in Another World:
+  1:
+    - 2026-09-30
+    - 2026-09-30
+  2:
+    - 2026-09-30
+    - 2026-10-01
+  3:
+    - 2026-10-01
+    - 2026-10-02
+  4:
+    - 2026-10-02
+    - 2026-10-02
+  5:
+    - 2026-10-02
+    - 2026-10-03
+  6:
+    - 2026-10-03
+    - 2026-10-03

@@ -1,4 +1,4 @@
-# Reading Pace (2026-09-20)
+# Reading Pace (2026-10-03)
 
 Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
@@ -10,14 +10,14 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
 ## Reading Speed
 
-112 pages/hour across 310 books (67,266 pages, 602h 47m).
+113 pages/hour across 321 books (71,743 pages, 637h 18m).
 
 ### By year
 
 | Year | Pages/hour | Pages | Read time |
 | --- | --- | --- | --- |
 | 2025 | 99 | 28,735 | 289h 30m |
-| 2026 | 124 | 38,844 | 314h 3m |
+| 2026 | 124 | 43,342 | 348h 42m |
 
 ### Fastest
 
@@ -63,6 +63,10 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
 | Date | Read time | Pages | Books |
 | --- | --- | --- | --- |
+| 2026-09-30 | 6h 8m | 779 | 3 |
+| 2026-10-02 | 6h 4m | 757 | 3 |
+| 2026-09-29 | 5h 3m | 679 | 2 |
+| 2026-10-01 | 4h 46m | 578 | 2 |
 | 2025-04-13 | 4h 42m | 490 | 4 |
 | 2025-05-09 | 4h 30m | 389 | 3 |
 | 2026-09-08 | 4h 28m | 649 | 2 |
@@ -74,10 +78,6 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 | 2026-09-02 | 3h 38m | 480 | 2 |
 | 2026-07-28 | 3h 32m | 529 | 4 |
 | 2025-08-14 | 3h 32m | 301 | 2 |
-| 2025-08-15 | 3h 24m | 304 | 2 |
-| 2025-08-26 | 3h 23m | 402 | 2 |
-| 2025-08-13 | 3h 18m | 286 | 2 |
-| 2025-11-28 | 3h 16m | 331 | 3 |
 
 ### Longest sittings
 
@@ -85,10 +85,14 @@ Runs of reading with no gap longer than 10 minutes.
 
 | Started | Read time | Pages | Books |
 | --- | --- | --- | --- |
+| 2026-10-02 21:11 | 2h 16m | 348 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 4 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 |
 | 2025-05-06 10:01 | 2h 11m | 192 | Dragon Daddy Diaries: A Girl Grows to Greatness Volume 1 / Dragon Daddy Diaries: A Girl Grows to Greatness Volume 2 / Dragon Daddy Diaries: A Girl Grows to Greatness Volume 3 |
 | 2025-05-09 09:58 | 2h 8m | 219 | Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! Vol. 1 |
+| 2026-09-30 21:12 | 2h 1m | 274 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 2 |
+| 2026-10-03 05:44 | 1h 51m | 278 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 6 |
 | 2026-04-12 21:45 | 1h 49m | 215 | A Late-Start Tamer’s Laid-Back Life: Volume 1 / A Late-Start Tamer’s Laid-Back Life: Volume 2 |
 | 2025-08-23 22:23 | 1h 43m | 172 | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! Vol. 13 / Survival in Another World with My Mistress! Vol. 8 |
+| 2026-09-30 18:28 | 1h 43m | 235 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 |
 | 2026-07-13 21:04 | 1h 43m | 228 | Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim, Vol. 3 / Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim, Vol. 4 |
 | 2026-05-23 06:36 | 1h 42m | 206 | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! Vol. 15 |
 | 2026-08-13 12:30 | 1h 41m | 282 | Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 1 / Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 2 |
@@ -96,10 +100,6 @@ Runs of reading with no gap longer than 10 minutes.
 | 2026-07-28 21:28 | 1h 38m | 277 | From Villainess to Healer: Volume 3 / From Villainess to Healer: Volume 4 / From Villainess to Healer: Volume 5 |
 | 2025-06-14 09:23 | 1h 34m | 135 | Her Majesty’s Swarm: Volume 2 / Her Majesty’s Swarm: Volume 3 |
 | 2025-12-07 18:20 | 1h 33m | 167 | An Introvert’s Hookup Hiccups: This Gyaru Is Head Over Heels for Me! Volume 8 |
-| 2025-10-13 11:52 | 1h 33m | 190 | Dagashi-ya Yahagi: Setting Up a Sweets Shop in Another World: Volume 4 / The Devil Princess Vol. 2 |
-| 2025-04-12 18:39 | 1h 27m | 159 | Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss! Vol. 2 |
-| 2026-05-21 22:09 | 1h 20m | 190 | How I Became King by Eating Monsters Volume 5 |
-| 2026-09-07 21:13 | 1h 20m | 225 | Death’s Daughter and the Ebony Blade: Volume 6 / Death’s Daughter and the Ebony Blade: Volume 7 Exordium |
 
 ## Per-Book Velocity
 
@@ -109,6 +109,8 @@ How long a book took start to finish, against the time actually spent in it.
 
 | Title | First read | Last read | Days | Days read | Read time |
 | --- | --- | --- | --- | --- | --- |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 | 2026-09-30 | 2026-09-30 | 1 | 1 | 3h 44m |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 4 | 2026-10-02 | 2026-10-02 | 1 | 1 | 3h 29m |
 | Looks like a Job for a Maid! The Tales of a Dismissed Supermaid: Volume 3 | 2026-09-01 | 2026-09-01 | 1 | 1 | 2h 47m |
 | I’m the Evil Lord of an Intergalactic Empire! Vol. 9 | 2025-08-26 | 2025-08-26 | 1 | 1 | 2h 14m |
 | Death’s Daughter and the Ebony Blade: Volume 7 Finale | 2026-09-08 | 2026-09-08 | 1 | 1 | 2h 14m |
@@ -122,8 +124,6 @@ How long a book took start to finish, against the time actually spent in it.
 | Magic Stone Gourmet: Eating Magical Power Made Me the Strongest Volume 1 | 2025-09-26 | 2025-09-26 | 1 | 1 | 1h 55m |
 | Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 3 | 2026-08-14 | 2026-08-14 | 1 | 1 | 1h 55m |
 | Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim, Vol. 3 | 2026-07-13 | 2026-07-13 | 1 | 1 | 1h 54m |
-| Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss! Vol. 2 | 2025-04-12 | 2025-04-12 | 1 | 1 | 1h 54m |
-| An Introvert’s Hookup Hiccups: This Gyaru Is Head Over Heels for Me! Volume 8 | 2025-12-07 | 2025-12-07 | 1 | 1 | 1h 52m |
 
 ### Slow burns
 

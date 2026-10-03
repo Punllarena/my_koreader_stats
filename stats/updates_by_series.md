@@ -1,4 +1,4 @@
-# Volume Updates by Series (2026-09-20)
+# Volume Updates by Series (2026-10-03)
 
 Volumes newer than what you've read, per RanobeDB (en releases).
 
@@ -7,6 +7,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Meals Made to Order: How to Domesticate Your Dragon with Delicacies!](#meals-made-to-order-how-to-domesticate-your-dragon-with-delicacies)
 - [Kusunoki's Garden of Gods](#kusunokis-garden-of-gods)
 - [Loner Life in Another World](#loner-life-in-another-world)
+- [The Diary of a Middle-Aged Sage's Carefree Life in Another World](#the-diary-of-a-middle-aged-sages-carefree-life-in-another-world)
 - [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](#heroine-saint-no-im-an-all-works-maid-and-proud-of-it)
 - [Chillin' in Another World with Level 2 Super Cheat Powers](#chillin-in-another-world-with-level-2-super-cheat-powers)
 - [Long Story Short, I'm Living in the Mountains](#long-story-short-im-living-in-the-mountains)
@@ -14,7 +15,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim](#magical-explorer-reborn-as-a-side-character-in-a-fantasy-dating-sim)
 - [The Tiny Witch from the Deep Woods](#the-tiny-witch-from-the-deep-woods)
 - [I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](#im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic)
-- [Isekai Walking](#isekai-walking)
 - [To Another World... with Land Mines!](#to-another-world-with-land-mines)
 - [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](#let-this-grieving-soul-retire-woe-is-the-weakling-that-leads-the-strongest-party)
 - [The Devil Princess](#the-devil-princess)
@@ -23,19 +23,15 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [The Hero and the Sage, Reincarnated and Engaged](#the-hero-and-the-sage-reincarnated-and-engaged)
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](#the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world)
 - [An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](#an-introverts-hookup-hiccups-this-gyaru-is-head-over-heels-for-me)
-- [Kunon the Sorcerer Can See](#kunon-the-sorcerer-can-see)
 - [The Angel Next Door Spoils Me Rotten](#the-angel-next-door-spoils-me-rotten)
 - [Fired? But I Maintain All the Software!](#fired-but-i-maintain-all-the-software)
 - [Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](#easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city)
-- [Nia Liston: The Merciless Maiden](#nia-liston-the-merciless-maiden)
 - [Flung into a New World? Time to Lift the 200-Year Curse!](#flung-into-a-new-world-time-to-lift-the-200-year-curse)
 - [The Invincible Little Lady](#the-invincible-little-lady)
-- [The Water Magician](#the-water-magician)
 - [Secrets of the Silent Witch](#secrets-of-the-silent-witch)
 - [From Villainess to Healer](#from-villainess-to-healer)
 - [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](#the-poison-king-now-that-ive-gained-ultimate-power-the-bewitching-beauties-in-my-harem-cant-get-enough-of-me)
 - [Survival in Another World with My Mistress!](#survival-in-another-world-with-my-mistress)
-- [EXP Is Golden](#exp-is-golden)
 - [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](#looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid)
 - [How I Became King by Eating Monsters](#how-i-became-king-by-eating-monsters)
 - [Peddler in Another World: I Can Go Back to My World Whenever I Want!](#peddler-in-another-world-i-can-go-back-to-my-world-whenever-i-want)
@@ -48,14 +44,19 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](#now-im-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon)
 - [Didn't I Say to Make My Abilities Average in the Next Life?!](#didnt-i-say-to-make-my-abilities-average-in-the-next-life)
 - [The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide](#the-worlds-strongest-witch-im-starting-my-free-life-in-a-world-where-only-i-can-see-the-online-strategy-guide)
+- [Isekai Walking](#isekai-walking)
+- [Nia Liston: The Merciless Maiden](#nia-liston-the-merciless-maiden)
 - [A Late-Start Tamer's Laid-Back Life](#a-late-start-tamers-laid-back-life)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](#reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship)
 - [She Professed Herself Pupil of the Wise Man](#she-professed-herself-pupil-of-the-wise-man)
+- [EXP Is Golden](#exp-is-golden)
+- [The Water Magician](#the-water-magician)
 - [A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](#a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires)
 - [Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](#before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive)
 - [Heir to a Monstermancer](#heir-to-a-monstermancer)
 - [I Shall Survive Using Potions!](#i-shall-survive-using-potions)
 - [I'm the Evil Lord of an Intergalactic Empire!](#im-the-evil-lord-of-an-intergalactic-empire)
+- [Kunon the Sorcerer Can See](#kunon-the-sorcerer-can-see)
 - [Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](#making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole)
 - [My Quiet Blacksmith Life in Another World](#my-quiet-blacksmith-life-in-another-world)
 - [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](#the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady)
@@ -90,6 +91,24 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Vol. 16 - 2027-04-13
 - ひとりぼっちの異世界攻略 life.17 旧態依然デストラクション - TBA
 - ひとりぼっちの異世界攻略 life.18 因習の彼方に - TBA
+
+## [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997)
+
+- Volume 7 - 2025-08-27
+- Volume 8 - 2025-12-03
+- Volume 9 - 2026-03-11
+- Volume 10 - 2026-06-17
+- Volume 11 - 2026-09-16
+- Volume 12 - 2026-12-21
+- アラフォー賢者の異世界生活日記 13 - TBA
+- アラフォー賢者の異世界生活日記 14 - TBA
+- アラフォー賢者の異世界生活日記 15 - TBA
+- アラフォー賢者の異世界生活日記 16 - TBA
+- アラフォー賢者の異世界生活日記 17 - TBA
+- アラフォー賢者の異世界生活日記 18 - TBA
+- アラフォー賢者の異世界生活日記 19 - TBA
+- アラフォー賢者の異世界生活日記 20 - TBA
+- アラフォー賢者の異世界生活日記21 - TBA
 
 ## [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676)
 
@@ -153,18 +172,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Volume 10 - 2026-06-29
 - Volume 11 - 2026-09-08
 
-## [Isekai Walking](https://ranobedb.org/series/13370)
-
-- Volume 6 - Eld Republic Arc - 2026-05-19
-- Volume 7 - Demon Kingdom Arc - 2026-08-26
-- Volume 8 - Fall of the Kingdom of Elesia Arc - 2026-11-30
-- 異世界ウォーキング 9 〜ラス獣王国編〜 - TBA
-- 異世界ウォーキング 10 〜砂の国デュセル編〜 - TBA
-- 異世界ウォーキング 11 〜海洋の国リチェル編〜 - TBA
-- 異世界ウォーキング 12 〜氷の国ノア編〜 - TBA
-- 異世界ウォーキング 13 〜魔物の国ハイカル編〜 - TBA
-- 異世界ウォーキング 14 〜ボースハイル帝国編〜 - TBA
-
 ## [To Another World... with Land Mines!](https://ranobedb.org/series/9208)
 
 - Volume 13 - 2026-06-22
@@ -227,13 +234,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Volume 13 - 2026-08-10
 - 陰キャの僕に罰ゲームで告白してきたはずのギャルが、どう見ても僕にベタ惚れです14 - TBA
 
-## [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340)
-
-- Vol. 6 - 2026-08-11
-- 魔術師クノンは見えている 7 - TBA
-- 魔術師クノンは見えている 8 - TBA
-- 魔術師クノンは見えている 9 - TBA
-
 ## [The Angel Next Door Spoils Me Rotten](https://ranobedb.org/series/9601)
 
 - Vol. 10 - 2026-08-11
@@ -255,12 +255,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Vol. 9 - 2027-03-02
 - お気楽領主の楽しい領地防衛 10 〜生産系魔術で名もなき村を最強の城塞都市に〜 - TBA
 
-## [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006)
-
-- Volume 10 - 2026-09-01
-- Volume 11 - 2026-12-09
-- 凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 - TBA
-
 ## [Flung into a New World? Time to Lift the 200-Year Curse!](https://ranobedb.org/series/10470)
 
 - Volume 5 - 2026-09-08
@@ -275,22 +269,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## [The Invincible Little Lady](https://ranobedb.org/series/7127)
 
 - Volume 8 - 2026-09-15
-
-## [The Water Magician](https://ranobedb.org/series/11957)
-
-- Arc 1 Volume 7 - 2026-09-15
-- Arc 2 Volume 1 - 2027-02-16
-- 水属性の魔法使い 第二部 西方諸国編2 - TBA
-- 水属性の魔法使い 第二部 西方諸国編3 - TBA
-- 水属性の魔法使い 第二部 西方諸国編4 - TBA
-- 水属性の魔法使い 第二部 西方諸国編5 - TBA
-- 水属性の魔法使い 第三部 東方諸国編1 - TBA
-- 水属性の魔法使い 第三部 東方諸国編2 - TBA
-- 水属性の魔法使い 第三部 東方諸国編3 - TBA
-- 水属性の魔法使い 第三部 東方諸国編4 - TBA
-- 水属性の魔法使い 第三部 東方諸国編5 - TBA
-- 水属性の魔法使い 第三部 東方諸国編6 - TBA
-- 水属性の魔法使い 第三部 東方諸国編7 - TBA
 
 ## [Secrets of the Silent Witch](https://ranobedb.org/series/12295)
 
@@ -312,14 +290,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569)
 
 - Vol. 10 - 2026-09-24
-
-## [EXP Is Golden](https://ranobedb.org/series/14414)
-
-- Volume 5 - The Queen of Destruction’s Cataclysmic Solo Boss Raid - 2026-09-25
-- Volume 6 - 2027-02-10
-- 黄金の経験値 VII 特定災害生物「魔王」各国動乱プレリュード - TBA
-- 黄金の経験値 VIII 特定災害生物「魔王」大戦アウトブレイク - TBA
-- 黄金の経験値 IX 特定災害生物「魔王」大戦バッドエンド - TBA
 
 ## [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712)
 
@@ -387,6 +357,21 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 世界最強の魔女、始めました 〜私だけ『攻略サイト』を見れる世界で自由に生きます〜 5巻 - TBA
 - 世界最強の魔女、始めました 〜私だけ『攻略サイト』を見れる世界で自由に生きます〜 6巻 - TBA
 
+## [Isekai Walking](https://ranobedb.org/series/13370)
+
+- Volume 8 - Fall of the Kingdom of Elesia Arc - 2026-11-30
+- 異世界ウォーキング 9 〜ラス獣王国編〜 - TBA
+- 異世界ウォーキング 10 〜砂の国デュセル編〜 - TBA
+- 異世界ウォーキング 11 〜海洋の国リチェル編〜 - TBA
+- 異世界ウォーキング 12 〜氷の国ノア編〜 - TBA
+- 異世界ウォーキング 13 〜魔物の国ハイカル編〜 - TBA
+- 異世界ウォーキング 14 〜ボースハイル帝国編〜 - TBA
+
+## [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006)
+
+- Volume 11 - 2026-12-09
+- 凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 - TBA
+
 ## [A Late-Start Tamer's Laid-Back Life](https://ranobedb.org/series/8080)
 
 - Volume 15 - 2026-12-23
@@ -404,6 +389,28 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 賢者の弟子を名乗る賢者 21 - TBA
 - 賢者の弟子を名乗る賢者 22 - TBA
 - 賢者の弟子を名乗る賢者 23 - TBA
+
+## [EXP Is Golden](https://ranobedb.org/series/14414)
+
+- Volume 6 - 2027-02-10
+- 黄金の経験値 VII 特定災害生物「魔王」各国動乱プレリュード - TBA
+- 黄金の経験値 VIII 特定災害生物「魔王」大戦アウトブレイク - TBA
+- 黄金の経験値 IX 特定災害生物「魔王」大戦バッドエンド - TBA
+
+## [The Water Magician](https://ranobedb.org/series/11957)
+
+- Arc 2 Volume 1 - 2027-02-16
+- 水属性の魔法使い 第二部 西方諸国編2 - TBA
+- 水属性の魔法使い 第二部 西方諸国編3 - TBA
+- 水属性の魔法使い 第二部 西方諸国編4 - TBA
+- 水属性の魔法使い 第二部 西方諸国編5 - TBA
+- 水属性の魔法使い 第三部 東方諸国編1 - TBA
+- 水属性の魔法使い 第三部 東方諸国編2 - TBA
+- 水属性の魔法使い 第三部 東方諸国編3 - TBA
+- 水属性の魔法使い 第三部 東方諸国編4 - TBA
+- 水属性の魔法使い 第三部 東方諸国編5 - TBA
+- 水属性の魔法使い 第三部 東方諸国編6 - TBA
+- 水属性の魔法使い 第三部 東方諸国編7 - TBA
 
 ## [A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](https://ranobedb.org/series/13495)
 
@@ -426,6 +433,12 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## [I'm the Evil Lord of an Intergalactic Empire!](https://ranobedb.org/series/11131)
 
 - 俺は星間国家の悪徳領主!12 - TBA
+
+## [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340)
+
+- 魔術師クノンは見えている 7 - TBA
+- 魔術師クノンは見えている 8 - TBA
+- 魔術師クノンは見えている 9 - TBA
 
 ## [Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://ranobedb.org/series/10375)
 
