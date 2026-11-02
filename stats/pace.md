@@ -1,4 +1,4 @@
-# Reading Pace (2026-10-03)
+# Reading Pace (2026-11-02)
 
 Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
@@ -10,34 +10,34 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
 ## Reading Speed
 
-113 pages/hour across 321 books (71,743 pages, 637h 18m).
+115 pages/hour across 337 books (77,081 pages, 672h 51m).
 
 ### By year
 
 | Year | Pages/hour | Pages | Read time |
 | --- | --- | --- | --- |
 | 2025 | 99 | 28,735 | 289h 30m |
-| 2026 | 124 | 43,342 | 348h 42m |
+| 2026 | 127 | 48,659 | 384h 7m |
 
 ### Fastest
 
 | Title | Pages/hour | Pages | Read time |
 | --- | --- | --- | --- |
 | Witch and Mercenary Vol. 6: Part 2 | 222 | 323 | 1h 27m |
+| The Devil Princess Vol. 5 | 222 | 370 | 1h 40m |
 | Fluffy Cafe in Another World Vol. 1 | 215 | 313 | 1h 27m |
 | The Tale of a Little Alchemist Blessed by the Spirits Vol. 1 | 210 | 264 | 1h 15m |
+| Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City Vol. 8 | 208 | 328 | 1h 34m |
 | The Amazing Village Creator: Slow Living with the Village Building Cheat Skill: Volume 4 | 196 | 204 | 1h 2m |
 | I’m the Evil Lord of an Intergalactic Empire! Vol. 11 | 192 | 429 | 2h 13m |
 | The Accursed Chef and His Pair of Furry Foodies Volume 2 | 190 | 251 | 1h 19m |
+| The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World Volume 5 | 190 | 261 | 1h 22m |
 | Magical Explorer, Vol. 6 (light novel) (Magical Explorer (light novel)) | 187 | 255 | 1h 21m |
 | Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 1 | 186 | 233 | 1h 15m |
 | The Accursed Chef and His Pair of Furry Foodies Volume 3 | 182 | 252 | 1h 22m |
 | She Professed Herself Pupil of the Wise Man Vol. 17 | 179 | 534 | 2h 58m |
 | The Devil Princess Vol. 2 | 178 | 257 | 1h 26m |
 | Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive, Vol. 1 | 176 | 211 | 1h 12m |
-| The Amazing Village Creator: Slow Living with the Village Building Cheat Skill: Volume 3 | 173 | 223 | 1h 17m |
-| I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic: Volume 2 | 172 | 207 | 1h 12m |
-| Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 12 | 167 | 213 | 1h 16m |
 
 ### Slowest
 
@@ -63,9 +63,11 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
 | Date | Read time | Pages | Books |
 | --- | --- | --- | --- |
+| 2026-10-03 | 8h 50m | 1,291 | 4 |
 | 2026-09-30 | 6h 8m | 779 | 3 |
 | 2026-10-02 | 6h 4m | 757 | 3 |
 | 2026-09-29 | 5h 3m | 679 | 2 |
+| 2026-10-04 | 4h 57m | 637 | 3 |
 | 2026-10-01 | 4h 46m | 578 | 2 |
 | 2025-04-13 | 4h 42m | 490 | 4 |
 | 2025-05-09 | 4h 30m | 389 | 3 |
@@ -76,8 +78,6 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 | 2026-08-13 | 3h 49m | 583 | 3 |
 | 2026-08-14 | 3h 48m | 544 | 3 |
 | 2026-09-02 | 3h 38m | 480 | 2 |
-| 2026-07-28 | 3h 32m | 529 | 4 |
-| 2025-08-14 | 3h 32m | 301 | 2 |
 
 ### Longest sittings
 
@@ -85,10 +85,12 @@ Runs of reading with no gap longer than 10 minutes.
 
 | Started | Read time | Pages | Books |
 | --- | --- | --- | --- |
+| 2026-10-03 16:44 | 2h 34m | 442 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 7 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 8 |
 | 2026-10-02 21:11 | 2h 16m | 348 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 4 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 |
 | 2025-05-06 10:01 | 2h 11m | 192 | Dragon Daddy Diaries: A Girl Grows to Greatness Volume 1 / Dragon Daddy Diaries: A Girl Grows to Greatness Volume 2 / Dragon Daddy Diaries: A Girl Grows to Greatness Volume 3 |
 | 2025-05-09 09:58 | 2h 8m | 219 | Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! Vol. 1 |
 | 2026-09-30 21:12 | 2h 1m | 274 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 2 |
+| 2026-10-06 20:36 | 1h 55m | 304 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 11 |
 | 2026-10-03 05:44 | 1h 51m | 278 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 / The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 6 |
 | 2026-04-12 21:45 | 1h 49m | 215 | A Late-Start Tamer’s Laid-Back Life: Volume 1 / A Late-Start Tamer’s Laid-Back Life: Volume 2 |
 | 2025-08-23 22:23 | 1h 43m | 172 | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! Vol. 13 / Survival in Another World with My Mistress! Vol. 8 |
@@ -98,8 +100,6 @@ Runs of reading with no gap longer than 10 minutes.
 | 2026-08-13 12:30 | 1h 41m | 282 | Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 1 / Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 2 |
 | 2026-08-31 13:21 | 1h 39m | 247 | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires Volume 7 / Looks like a Job for a Maid! The Tales of a Dismissed Supermaid: Volume 2 |
 | 2026-07-28 21:28 | 1h 38m | 277 | From Villainess to Healer: Volume 3 / From Villainess to Healer: Volume 4 / From Villainess to Healer: Volume 5 |
-| 2025-06-14 09:23 | 1h 34m | 135 | Her Majesty’s Swarm: Volume 2 / Her Majesty’s Swarm: Volume 3 |
-| 2025-12-07 18:20 | 1h 33m | 167 | An Introvert’s Hookup Hiccups: This Gyaru Is Head Over Heels for Me! Volume 8 |
 
 ## Per-Book Velocity
 
@@ -111,7 +111,11 @@ How long a book took start to finish, against the time actually spent in it.
 | --- | --- | --- | --- | --- | --- |
 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 | 2026-09-30 | 2026-09-30 | 1 | 1 | 3h 44m |
 | The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 4 | 2026-10-02 | 2026-10-02 | 1 | 1 | 3h 29m |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 9 | 2026-10-04 | 2026-10-04 | 1 | 1 | 3h 20m |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 6 | 2026-10-03 | 2026-10-03 | 1 | 1 | 2h 58m |
 | Looks like a Job for a Maid! The Tales of a Dismissed Supermaid: Volume 3 | 2026-09-01 | 2026-09-01 | 1 | 1 | 2h 47m |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 7 | 2026-10-03 | 2026-10-03 | 1 | 1 | 2h 31m |
+| The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 11 | 2026-10-06 | 2026-10-06 | 1 | 1 | 2h 30m |
 | I’m the Evil Lord of an Intergalactic Empire! Vol. 9 | 2025-08-26 | 2025-08-26 | 1 | 1 | 2h 14m |
 | Death’s Daughter and the Ebony Blade: Volume 7 Finale | 2026-09-08 | 2026-09-08 | 1 | 1 | 2h 14m |
 | Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)! Vol. 1 | 2025-05-09 | 2025-05-09 | 1 | 1 | 2h 11m |
@@ -120,10 +124,6 @@ How long a book took start to finish, against the time actually spent in it.
 | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! Vol. 13 | 2025-08-24 | 2025-08-24 | 1 | 1 | 2h 2m |
 | Demon Lord, Retry! Volume 9 | 2025-11-16 | 2025-11-16 | 1 | 1 | 2h 2m |
 | Before the Tutorial Starts, Vol. 4: A Few Things I Can Do to Keep the Bosses Alive | 2026-06-23 | 2026-06-23 | 1 | 1 | 2h 0m |
-| Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss! (Light Novel) Vol. 1 | 2025-04-12 | 2025-04-12 | 1 | 1 | 1h 58m |
-| Magic Stone Gourmet: Eating Magical Power Made Me the Strongest Volume 1 | 2025-09-26 | 2025-09-26 | 1 | 1 | 1h 55m |
-| Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀ Volume 3 | 2026-08-14 | 2026-08-14 | 1 | 1 | 1h 55m |
-| Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim, Vol. 3 | 2026-07-13 | 2026-07-13 | 1 | 1 | 1h 54m |
 
 ### Slow burns
 
@@ -136,12 +136,12 @@ How long a book took start to finish, against the time actually spent in it.
 | The Invincible Little Lady: Volume 7 | 2026-05-22 | 2026-08-13 | 84 | 7 | 4h 6m |
 | Bofuri: I Don’t Want to Get Hurt, so I’ll Max Out My Defense., Vol. 17 | 2026-05-19 | 2026-06-19 | 32 | 4 | 1h 30m |
 | She Professed Herself Pupil of the Wise Man Vol. 13 | 2025-05-21 | 2025-05-29 | 9 | 7 | 3h 25m |
+| I’ve Been Killing Slimes for 300 Years and Maxed Out My Level, Vol. 18 | 2026-10-20 | 2026-10-27 | 8 | 8 | 1h 58m |
 | To Another World... with Land Mines! Volume 6 | 2026-03-06 | 2026-03-13 | 8 | 8 | 3h 17m |
 | Long Story Short, I’m Living in the Mountains: Volume 3 | 2025-10-29 | 2025-11-04 | 7 | 6 | 2h 23m |
 | Isekai Walking: Volume 4 Magic Nation Eva - Dungeon Arc | 2026-09-09 | 2026-09-15 | 7 | 7 | 2h 48m |
+| From Villainess to Healer: Volume 7 | 2026-10-15 | 2026-10-20 | 6 | 6 | 1h 27m |
 | So I’m a Spider, So What?, Vol. 15 | 2025-06-02 | 2025-06-07 | 6 | 3 | 1h 39m |
 | She Professed Herself Pupil of the Wise Man Vol. 16 | 2026-05-23 | 2026-05-28 | 6 | 6 | 3h 5m |
 | The Tale of a Little Alchemist Blessed by the Spirits Vol. 2 | 2026-04-03 | 2026-04-07 | 5 | 4 | 1h 22m |
-| Magical★Explorer: Reborn as a Side Character in a Fantasy Dating Sim, Vol. 8 | 2026-07-17 | 2026-07-21 | 5 | 3 | 1h 37m |
-| Magic Stone Gourmet: Eating Magical Power Made Me the Strongest Volume 2 | 2025-09-26 | 2025-09-30 | 5 | 4 | 1h 53m |
 

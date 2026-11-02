@@ -202,6 +202,9 @@ I’ve Been Killing Slimes for 300 Years and Maxed Out My Level:
   17:
     - 2025-12-12
     - 2025-12-14
+  18:
+    - 2026-10-20
+    - 2026-10-27
 My Quiet Blacksmith Life in Another World:
   10:
     - 2025-05-29
@@ -329,6 +332,9 @@ Free Life Fantasy Online: Immortal Princess:
   10:
     - 2026-03-30
     - 2026-03-31
+  11:
+    - 2026-10-11
+    - 2026-10-15
 Kunon the Sorcerer Can See:
   4:
     - 2025-08-10
@@ -403,6 +409,12 @@ The Devil Princess:
   3:
     - 2026-05-11
     - 2026-05-12
+  4:
+    - 2026-10-08
+    - 2026-10-09
+  5:
+    - 2026-10-20
+    - 2026-10-20
 Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City:
   5:
     - 2025-08-27
@@ -413,6 +425,9 @@ Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nam
   7:
     - 2026-05-10
     - 2026-05-11
+  8:
+    - 2026-10-07
+    - 2026-10-08
 The Poison King: Now that I’ve Gained Ultimate Power, the Bewitching Beauties in My Harem Can’t Get Enough of Me:
   4:
     - 2025-08-28
@@ -447,6 +462,9 @@ Let This Grieving Soul Retire:
   9:
     - 2026-05-07
     - 2026-05-10
+  10:
+    - 2026-10-30
+    - 2026-11-02
 The World’s Strongest Witch:
   1:
     - 2025-09-10
@@ -598,6 +616,9 @@ An Introvert’s Hookup Hiccups: This Gyaru Is Head Over Heels for Me:
   12:
     - 2026-05-14
     - 2026-05-18
+  13:
+    - 2026-10-09
+    - 2026-10-11
 Looks like a Job for a Maid! The Tales of a Dismissed Supermaid:
   1:
     - 2025-12-17
@@ -618,6 +639,12 @@ The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World
   3:
     - 2026-05-18
     - 2026-05-19
+  4:
+    - 2026-10-27
+    - 2026-10-29
+  5:
+    - 2026-10-29
+    - 2026-10-30
 The Amazing Village Creator: Slow Living with the Village Building Cheat Skill:
   1:
     - 2025-12-29
@@ -971,6 +998,9 @@ From Villainess to Healer:
   6:
     - 2026-07-30
     - 2026-08-02
+  7:
+    - 2026-10-15
+    - 2026-10-20
 Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀:
   1:
     - 2026-08-13
@@ -1056,3 +1086,18 @@ The Diary of a Middle-Aged Sage’s Carefree Life in Another World:
   6:
     - 2026-10-03
     - 2026-10-03
+  7:
+    - 2026-10-03
+    - 2026-10-03
+  8:
+    - 2026-10-03
+    - 2026-10-04
+  9:
+    - 2026-10-04
+    - 2026-10-04
+  10:
+    - 2026-10-04
+    - 2026-10-06
+  11:
+    - 2026-10-06
+    - 2026-10-06
