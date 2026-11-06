@@ -95,7 +95,7 @@ def request(method, path, token, body=None):
 
 
 def search(query):
-    url = f"{API}/books?q={urllib.parse.quote(query)}&limit=5"
+    url = f"{API}/books?q={urllib.parse.quote(query)}&limit=100"  # a series can run past any small page
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     time.sleep(DELAY)
     with urllib.request.urlopen(req, timeout=30) as r:
@@ -113,6 +113,8 @@ def pick_book(volume):
         hits = search(q)
         if hits:
             break
+    # the volume I read first, the rest in RanobeDB's order
+    hits = sorted(hits, key=lambda h: split_volume(h["title"])[1] != volume["vol"])[:5]
     print(f"\n{volume['title']}")
     for i, hit in enumerate(hits, 1):
         print(f"  {i}. {hit['title']}  (id {hit['id']})")
