@@ -186,3 +186,8 @@ cython_debug/
 # sqlite sidecar files
 *.sqlite3-wal
 *.sqlite3-shm
+
+# ranobedb sync token and state
+.ranobedb_sync.json
+.ranobedb_sync.tmp
+.env
