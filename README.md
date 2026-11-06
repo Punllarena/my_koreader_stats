@@ -4,6 +4,9 @@ Turns a KOReader `statistics.sqlite3` into readable markdown: what I read per mo
 per year, how fast I read it, a Wrapped-style recap, and which volumes of my series have
 come out since.
 
+Want this for your own library? Use the data-free template:
+[Punllarena/koreader-stats-template](https://github.com/Punllarena/koreader-stats-template).
+
 ## Usage
 
 Copy `statistics.sqlite3` out of your KOReader device (`koreader/settings/statistics.sqlite3`)
