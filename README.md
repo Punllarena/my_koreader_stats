@@ -35,9 +35,38 @@ tests/                self-checks
 | `scripts/pace.py` | `stats/pace.md` — pages/hour overall, per year and per book; heaviest days and longest sittings; how long each book took start to finish |
 | `scripts/wrapped.py` | `stats/wrapped.md` — a Wrapped-style recap per year and quarter, each ending in a one-line caption to paste |
 | `scripts/updates.py` | `stats/updates_by_series.md`, `stats/updates_by_month.md` — volumes newer than the ones read, per RanobeDB (English releases) |
+| `scripts/sync_ranobedb.py`, `sync_ranobedb_auto.py` | update your RanobeDB reading list, asking or not (not part of `regen.sh`, see below) |
 
 `scripts/paths.py` holds every path, `scripts/titles.py` parses KOReader titles into a series
 and volume number, and `scripts/toc.py` adds a table of contents to each generated file.
+
+## Syncing to RanobeDB
+
+`scripts/sync_ranobedb.py` sets each volume's status and dates on your RanobeDB list. Create a
+personal access token in your RanobeDB settings, copy `.env.example` to `.env` (gitignored) and put the
+token in `RANOBEDB_TOKEN`.
+
+```sh
+python3 scripts/sync_ranobedb.py          # dry run: asks you to match volumes, prints what it would send
+python3 scripts/sync_ranobedb.py --apply  # actually send
+python3 scripts/sync_ranobedb_auto.py     # never asks, sends straight away (--dry-run to preview)
+```
+
+- **Finished** means the furthest page reached is at least 90% of the book **and** at least half of its
+  pages were viewed (so paging to the end of a book you never read doesn't count). Anything else is
+  **Reading**. `started` is the first read date, `finished` the last. Stalled/Dropped/Plan to read are never sent.
+- Each volume is matched to a RanobeDB book once, by you; the choice (or "skip") is remembered in
+  `.ranobedb_sync.json` along with what was last sent, so unchanged volumes are not re-sent.
+- `sync_ranobedb_auto.py` is the no-prompt version for scheduled runs. It only matches a volume when exactly
+  one search hit has the same series and volume number; the rest are counted as unmatched and left for
+  the interactive script.
+- To keep a score, notes or labels across syncs, add `"score"`, `"notes"` or `"selectedCustLabels"`
+  to that volume's entry in `.ranobedb_sync.json`.
+
+**Risk:** RanobeDB's API replaces the whole list entry on every update and has no way to read the
+existing one back. If a book is already on your list with a score, notes or custom labels, the first
+sync clears them. Add them to `.ranobedb_sync.json` first, or only run this on a list you're happy to
+have overwritten. See `ranobedb-user-api-guide.md` for the API details.
 
 ## Checks
 
