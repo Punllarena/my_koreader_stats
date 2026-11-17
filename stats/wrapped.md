@@ -1,4 +1,4 @@
-# Reading Wrapped (2026-11-02)
+# Reading Wrapped (2026-11-17)
 
 A recap per year and per quarter. The blockquote under each one is the caption.
 
@@ -9,9 +9,9 @@ A recap per year and per quarter. The blockquote under each one is the caption.
 
 ## 2026 (in progress)
 
-- 📚 **196 books** · 48,659 pages · **384h 7m** (+33% on the period before)
+- 📚 **200 books** · 50,136 pages · **394h 52m** (+36% on the period before)
 - 🏆 Most time with **To Another World... with Land Mines** — 36h 14m across 12 volumes
-- 🔥 Longest streak **93 days** · read on 303 days
+- 🔥 Longest streak **93 days** · read on 318 days
 - 🥇 Biggest day **2026-10-03** — 8h 50m
 - 🕐 Peak reading hour **06:00**
 
@@ -23,13 +23,13 @@ A recap per year and per quarter. The blockquote under each one is the caption.
 4. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 3 — 3h 49m
 5. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 1 — 3h 44m
 
-> 2026 wrapped: 196 books, 384 hours, 48,659 pages. Most time with To Another World... with Land Mines. Longest streak 93 days. 📚
+> 2026 wrapped: 200 books, 394 hours, 50,136 pages. Most time with To Another World... with Land Mines. Longest streak 93 days. 📚
 
 ### 2026 Q4 (in progress)
 
-- 📚 **20 books** · 6,919 pages · **48h 8m** (-61% on the period before)
+- 📚 **24 books** · 8,396 pages · **58h 53m** (-52% on the period before)
 - 🏆 Most time with **The Diary of a Middle-Aged Sage’s Carefree Life in Another World** — 30h 15m across 10 volumes
-- 🔥 Longest streak **33 days** · read on 33 days
+- 🔥 Longest streak **48 days** · read on 48 days
 - 🥇 Biggest day **2026-10-03** — 8h 50m
 - 🕐 Peak reading hour **06:00**
 
@@ -41,7 +41,7 @@ A recap per year and per quarter. The blockquote under each one is the caption.
 4. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 10 — 3h 14m
 5. The Diary of a Middle-Aged Sage’s Carefree Life in Another World: Volume 5 — 3h 6m
 
-> 2026 Q4 wrapped: 20 books, 48 hours, 6,919 pages. Most time with The Diary of a Middle-Aged Sage’s Carefree Life in Another World. Longest streak 33 days. 📚
+> 2026 Q4 wrapped: 24 books, 58 hours, 8,396 pages. Most time with The Diary of a Middle-Aged Sage’s Carefree Life in Another World. Longest streak 48 days. 📚
 
 ### 2026 Q3
 

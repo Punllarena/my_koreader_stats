@@ -46,6 +46,9 @@ Survival in Another World with My Mistress:
   9:
     - 2026-05-29
     - 2026-05-30
+  10:
+    - 2026-11-16
+    - 2026-11-17
 I Shall Survive Using Potions:
   10:
     - 2025-04-19
@@ -284,6 +287,9 @@ Now I’m a Demon Lord! Happily Ever After with Monster Girls in My Dungeon:
   16:
     - 2026-08-02
     - 2026-08-04
+  17:
+    - 2026-11-11
+    - 2026-11-16
 Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship:
   12:
     - 2025-07-19
@@ -464,7 +470,10 @@ Let This Grieving Soul Retire:
     - 2026-05-10
   10:
     - 2026-10-30
-    - 2026-11-02
+    - 2026-11-05
+  11:
+    - 2026-11-05
+    - 2026-11-08
 The World’s Strongest Witch:
   1:
     - 2025-09-10
@@ -629,6 +638,9 @@ Looks like a Job for a Maid! The Tales of a Dismissed Supermaid:
   3:
     - 2026-09-01
     - 2026-09-01
+  4:
+    - 2026-11-08
+    - 2026-11-11
 The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World:
   1:
     - 2025-12-25

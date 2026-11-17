@@ -1,4 +1,4 @@
-# Volume Updates by Release Month (2026-11-02)
+# Volume Updates by Release Month (2026-11-17)
 
 Volumes newer than what you've read, per RanobeDB (en releases).
 
@@ -110,9 +110,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [The Invincible Little Lady](https://ranobedb.org/series/7127) - Volume 8 - 2026-09-15
 - [Secrets of the Silent Witch](https://ranobedb.org/series/12295) - Vol. 8 - 2026-09-22
 - [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](https://ranobedb.org/series/15011) - Volume 8 - 2026-09-23
-- [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569) - Vol. 10 - 2026-09-24
 - [The Tiny Witch from the Deep Woods](https://ranobedb.org/series/15046) - Volume 5 - 2026-09-25
-- [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712) - Volume 4 - 2026-09-28
 - [How I Became King by Eating Monsters](https://ranobedb.org/series/15512) - Vol.6 - 2026-09-30
 
 ## October 2026
@@ -123,8 +121,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - Vol. 18 - 2026-10-13
 - [Witches Can't Be Collared](https://ranobedb.org/series/16146) - Vol. 3 - 2026-10-13
 - [Fluffy Café in Another World](https://ranobedb.org/series/11019) - Vol. 2 - 2026-10-15
-- [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](https://ranobedb.org/series/8466) - Let This Grieving Soul Retire: Volume 11 - 2026-10-28
-- [Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://ranobedb.org/series/7422) - Volume 17 - 2026-10-28
 - [The Tale of a Little Alchemist Blessed by the Spirits](https://ranobedb.org/series/11893) - Vol. 4 - 2026-10-29
 - [The Fearsome Witch Teaches in Another World](https://ranobedb.org/series/12606) - Volume 5 - I’ll Show You That All Races Are Equal - 2026-10-30
 
@@ -140,8 +136,8 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## December 2026
 
 - [To Another World... with Land Mines!](https://ranobedb.org/series/9208) - Volume 14 - 2026-12-01
-- [I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://ranobedb.org/series/6384) - Vol. 19 - 2026-12-08
 - [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006) - Volume 11 - 2026-12-09
+- [I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://ranobedb.org/series/6384) - Vol. 19 - 2026-12-15
 - [She Professed Herself Pupil of the Wise Man](https://ranobedb.org/series/3648) - Vol. 18 - 2026-12-17
 - [Chillin' in Another World with Level 2 Super Cheat Powers](https://ranobedb.org/series/6363) - Volume 21 - 2026-12-21
 - [The Diary of a Middle-Aged Sage's Carefree Life in Another World](https://ranobedb.org/series/5997) - Volume 12 - 2026-12-21
@@ -163,6 +159,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Fluffy Café in Another World](https://ranobedb.org/series/11019) - Vol. 3 - 2027-02-04
 - [EXP Is Golden](https://ranobedb.org/series/14414) - Volume 6 - 2027-02-10
 - [The Water Magician](https://ranobedb.org/series/11957) - Arc 2 Volume 1 - 2027-02-16
+- [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - Volume 7 - 2027-02-18
 - [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](https://ranobedb.org/series/10676) - Vol. 8 - 2027-02-23
 
 ## March 2027
@@ -172,7 +169,10 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 ## April 2027
 
+- [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - Vol. 19 - 2027-04-13
+- [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340) - Vol. 7 - 2027-04-13
 - [The Devil Princess](https://ranobedb.org/series/13673) - Vol. 6 - 2027-04-13
+- [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484) - Vol. 10 - 2027-04-13
 - [The Tale of a Little Alchemist Blessed by the Spirits](https://ranobedb.org/series/11893) - Vol. 5 - 2027-04-13
 
 ## May 2027
@@ -194,7 +194,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](https://ranobedb.org/series/12984) - 陰キャの僕に罰ゲームで告白してきたはずのギャルが、どう見ても僕にベタ惚れです14 - TBA
 - [Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://ranobedb.org/series/14294) - チュートリアルが始まる前に5 ボスキャラ達を破滅させない為に俺ができる幾つかの事 - TBA
 - [Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](https://ranobedb.org/series/14294) - チュートリアルが始まる前に6 ボスキャラ達を破滅させない為に俺ができる幾つかの事 - TBA
-- [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - 痛いのは嫌なので防御力に極振りしたいと思います。 19 - TBA
 - [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝1 - TBA
 - [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝2 - TBA
 - [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247) - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝3 - TBA
@@ -234,7 +233,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Isekai Walking](https://ranobedb.org/series/13370) - 異世界ウォーキング 12 〜氷の国ノア編〜 - TBA
 - [Isekai Walking](https://ranobedb.org/series/13370) - 異世界ウォーキング 13 〜魔物の国ハイカル編〜 - TBA
 - [Isekai Walking](https://ranobedb.org/series/13370) - 異世界ウォーキング 14 〜ボースハイル帝国編〜 - TBA
-- [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340) - 魔術師クノンは見えている 7 - TBA
 - [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340) - 魔術師クノンは見えている 8 - TBA
 - [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340) - 魔術師クノンは見えている 9 - TBA
 - [Kusunoki's Garden of Gods](https://ranobedb.org/series/12813) - 神の庭付き楠木邸6 - TBA
@@ -250,7 +248,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - ひとりぼっちの異世界攻略 life.17 旧態依然デストラクション - TBA
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - ひとりぼっちの異世界攻略 life.18 因習の彼方に - TBA
 - [Loner Life in Another World](https://ranobedb.org/series/7643) - ひとりぼっちの異世界攻略 life.19 継ぎ接ぎのパラダイムシフト - TBA
-- [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - 前略、山暮らしを始めました。7 - TBA
 - [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - 前略、山暮らしを始めました。8 - TBA
 - [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - 前略、山暮らしを始めました。9 - TBA
 - [Long Story Short, I'm Living in the Mountains](https://ranobedb.org/series/14268) - 前略、山暮らしを始めました。10 - TBA
@@ -306,7 +303,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://ranobedb.org/series/13007) - 転生したら最強種たちが住まう島でした。この島でスローライフを楽しみます 8巻 - TBA
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://ranobedb.org/series/13007) - 転生したら最強種たちが住まう島でした。この島でスローライフを楽しみます 9巻 - TBA
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](https://ranobedb.org/series/13007) - 転生したら最強種たちが住まう島でした。この島でスローライフを楽しみます 10巻 - TBA
-- [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484) - 転生王女と天才令嬢の魔法革命10 - TBA
 - [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484) - 転生王女と天才令嬢の魔法革命11 - TBA
 - [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484) - 転生王女と天才令嬢の魔法革命12 - TBA
 - [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484) - 転生王女と天才令嬢の魔法革命13 - TBA

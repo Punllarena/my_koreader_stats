@@ -1,4 +1,4 @@
-# Reading Pace (2026-11-02)
+# Reading Pace (2026-11-17)
 
 Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
@@ -10,14 +10,14 @@ Books under 30 minutes or 50 pages read are left out of the per-book sections.
 
 ## Reading Speed
 
-115 pages/hour across 337 books (77,081 pages, 672h 51m).
+115 pages/hour across 341 books (78,558 pages, 683h 36m).
 
 ### By year
 
 | Year | Pages/hour | Pages | Read time |
 | --- | --- | --- | --- |
 | 2025 | 99 | 28,735 | 289h 30m |
-| 2026 | 127 | 48,659 | 384h 7m |
+| 2026 | 127 | 50,136 | 394h 52m |
 
 ### Fastest
 
@@ -140,8 +140,8 @@ How long a book took start to finish, against the time actually spent in it.
 | To Another World... with Land Mines! Volume 6 | 2026-03-06 | 2026-03-13 | 8 | 8 | 3h 17m |
 | Long Story Short, I’m Living in the Mountains: Volume 3 | 2025-10-29 | 2025-11-04 | 7 | 6 | 2h 23m |
 | Isekai Walking: Volume 4 Magic Nation Eva - Dungeon Arc | 2026-09-09 | 2026-09-15 | 7 | 7 | 2h 48m |
+| Let This Grieving Soul Retire! Volume 10 | 2026-10-30 | 2026-11-05 | 7 | 7 | 2h 57m |
 | From Villainess to Healer: Volume 7 | 2026-10-15 | 2026-10-20 | 6 | 6 | 1h 27m |
 | So I’m a Spider, So What?, Vol. 15 | 2025-06-02 | 2025-06-07 | 6 | 3 | 1h 39m |
-| She Professed Herself Pupil of the Wise Man Vol. 16 | 2026-05-23 | 2026-05-28 | 6 | 6 | 3h 5m |
-| The Tale of a Little Alchemist Blessed by the Spirits Vol. 2 | 2026-04-03 | 2026-04-07 | 5 | 4 | 1h 22m |
+| Now I’m a Demon Lord! Happily Ever After with Monster Girls in My Dungeon: Volume 17 | 2026-11-11 | 2026-11-16 | 6 | 6 | 1h 48m |
 

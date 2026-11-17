@@ -1,4 +1,4 @@
-# Volume Updates by Series (2026-11-02)
+# Volume Updates by Series (2026-11-17)
 
 Volumes newer than what you've read, per RanobeDB (en releases).
 
@@ -23,8 +23,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [The Invincible Little Lady](#the-invincible-little-lady)
 - [Secrets of the Silent Witch](#secrets-of-the-silent-witch)
 - [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](#the-poison-king-now-that-ive-gained-ultimate-power-the-bewitching-beauties-in-my-harem-cant-get-enough-of-me)
-- [Survival in Another World with My Mistress!](#survival-in-another-world-with-my-mistress)
-- [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](#looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid)
 - [How I Became King by Eating Monsters](#how-i-became-king-by-eating-monsters)
 - [Peddler in Another World: I Can Go Back to My World Whenever I Want!](#peddler-in-another-world-i-can-go-back-to-my-world-whenever-i-want)
 - [Witch and Mercenary](#witch-and-mercenary)
@@ -32,32 +30,33 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](#bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense)
 - [Witches Can't Be Collared](#witches-cant-be-collared)
 - [Fluffy Café in Another World](#fluffy-café-in-another-world)
-- [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](#let-this-grieving-soul-retire-woe-is-the-weakling-that-leads-the-strongest-party)
-- [Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](#now-im-a-demon-lord-happily-ever-after-with-monster-girls-in-my-dungeon)
 - [The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide](#the-worlds-strongest-witch-im-starting-my-free-life-in-a-world-where-only-i-can-see-the-online-strategy-guide)
 - [Didn't I Say to Make My Abilities Average in the Next Life?!](#didnt-i-say-to-make-my-abilities-average-in-the-next-life)
 - [Isekai Walking](#isekai-walking)
-- [I've Been Killing Slimes for 300 Years and Maxed Out My Level](#ive-been-killing-slimes-for-300-years-and-maxed-out-my-level)
 - [Nia Liston: The Merciless Maiden](#nia-liston-the-merciless-maiden)
+- [I've Been Killing Slimes for 300 Years and Maxed Out My Level](#ive-been-killing-slimes-for-300-years-and-maxed-out-my-level)
 - [She Professed Herself Pupil of the Wise Man](#she-professed-herself-pupil-of-the-wise-man)
 - [The Diary of a Middle-Aged Sage's Carefree Life in Another World](#the-diary-of-a-middle-aged-sages-carefree-life-in-another-world)
 - [A Late-Start Tamer's Laid-Back Life](#a-late-start-tamers-laid-back-life)
 - [Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!](#reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship)
+- [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](#looks-like-a-job-for-a-maid-the-tales-of-a-dismissed-supermaid)
 - [Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](#making-magic-the-sweet-life-of-a-witch-who-knows-an-infinite-mp-loophole)
 - [The Isle of Paramounts: Reborn into a Slow Life Among the Strongest in the World](#the-isle-of-paramounts-reborn-into-a-slow-life-among-the-strongest-in-the-world)
 - [EXP Is Golden](#exp-is-golden)
 - [The Water Magician](#the-water-magician)
 - [Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City](#easygoing-territory-defense-by-the-optimistic-lord-production-magic-turns-a-nameless-village-into-the-strongest-fortified-city)
+- [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](#let-this-grieving-soul-retire-woe-is-the-weakling-that-leads-the-strongest-party)
+- [Kunon the Sorcerer Can See](#kunon-the-sorcerer-can-see)
 - [The Devil Princess](#the-devil-princess)
+- [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](#the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady)
 - [I'm the Evil Lord of an Intergalactic Empire!](#im-the-evil-lord-of-an-intergalactic-empire)
 - [A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires](#a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires)
 - [An Introvert's Hookup Hiccups: This Gyaru Is Head Over Heels for Me!](#an-introverts-hookup-hiccups-this-gyaru-is-head-over-heels-for-me)
 - [Before the Tutorial Starts: A Few Things I Can Do to Keep the Bosses Alive](#before-the-tutorial-starts-a-few-things-i-can-do-to-keep-the-bosses-alive)
 - [Heir to a Monstermancer](#heir-to-a-monstermancer)
 - [I Shall Survive Using Potions!](#i-shall-survive-using-potions)
-- [Kunon the Sorcerer Can See](#kunon-the-sorcerer-can-see)
 - [My Quiet Blacksmith Life in Another World](#my-quiet-blacksmith-life-in-another-world)
-- [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](#the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady)
+- [Survival in Another World with My Mistress!](#survival-in-another-world-with-my-mistress)
 - [Welcome to Japan, Ms. Elf!](#welcome-to-japan-ms-elf)
 - [Not found on RanobeDB](#not-found-on-ranobedb)
 
@@ -113,7 +112,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Volume 4 - 2026-01-07
 - Volume 5 - 2026-04-02
 - Volume 6 - 2026-06-23
-- 前略、山暮らしを始めました。7 - TBA
+- Volume 7 - 2027-02-18
 - 前略、山暮らしを始めました。8 - TBA
 - 前略、山暮らしを始めました。9 - TBA
 - 前略、山暮らしを始めました。10 - TBA
@@ -217,20 +216,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Volume 8 - 2026-09-23
 - 毒の王9 最強の力に覚醒した俺は美姫たちを従え、発情ハーレムの主となる - TBA
 
-## [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569)
-
-- Vol. 10 - 2026-09-24
-- ご主人様とゆく異世界サバイバル! 11 - TBA
-
-## [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712)
-
-- Volume 4 - 2026-09-28
-- Volume 5 - 2026-12-28
-- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました6 - TBA
-- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました7 - TBA
-- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました8 - TBA
-- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました9 - TBA
-
 ## [How I Became King by Eating Monsters](https://ranobedb.org/series/15512)
 
 - Vol.6 - 2026-09-30
@@ -258,7 +243,7 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 ## [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](https://ranobedb.org/series/7247)
 
 - Vol. 18 - 2026-10-13
-- 痛いのは嫌なので防御力に極振りしたいと思います。 19 - TBA
+- Vol. 19 - 2027-04-13
 - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝1 - TBA
 - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝2 - TBA
 - 痛いのは嫌なので防御力に極振りしたいと思います。 外伝3 - TBA
@@ -272,17 +257,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 - Vol. 2 - 2026-10-15
 - Vol. 3 - 2027-02-04
-
-## [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](https://ranobedb.org/series/8466)
-
-- Let This Grieving Soul Retire: Volume 11 - 2026-10-28
-- Let This Grieving Soul Retire: Volume 12 - 2027-03-10
-- 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 13 - TBA
-- 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 14 - TBA
-
-## [Now I'm a Demon Lord! Happily Ever After with Monster Girls in My Dungeon](https://ranobedb.org/series/7422)
-
-- Volume 17 - 2026-10-28
 
 ## [The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide](https://ranobedb.org/series/14258)
 
@@ -305,9 +279,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - 異世界ウォーキング 13 〜魔物の国ハイカル編〜 - TBA
 - 異世界ウォーキング 14 〜ボースハイル帝国編〜 - TBA
 
+## [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006)
+
+- Volume 11 - 2026-12-09
+- 凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 - TBA
+
 ## [I've Been Killing Slimes for 300 Years and Maxed Out My Level](https://ranobedb.org/series/6384)
 
-- Vol. 19 - 2026-12-08
+- Vol. 19 - 2026-12-15
 - スライム倒して300年、知らないうちにレベルMAXになってました20 - TBA
 - スライム倒して300年、知らないうちにレベルMAXになってました21 - TBA
 - スライム倒して300年、知らないうちにレベルMAXになってました22 - TBA
@@ -319,11 +298,6 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - スライム倒して300年、知らないうちにレベルMAXになってました28 - TBA
 - スライム倒して300年、知らないうちにレベルMAXになってました29 - TBA
 - スライム倒して300年、知らないうちにレベルMAXになってました30 - TBA
-
-## [Nia Liston: The Merciless Maiden](https://ranobedb.org/series/14006)
-
-- Volume 11 - 2026-12-09
-- 凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 - TBA
 
 ## [She Professed Herself Pupil of the Wise Man](https://ranobedb.org/series/3648)
 
@@ -357,6 +331,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 - Vol. 17 - 2026-12-24
 - Vol. 18 - 2027-06-22
+
+## [Looks like a Job for a Maid! The Tales of a Dismissed Supermaid](https://ranobedb.org/series/13712)
+
+- Volume 5 - 2026-12-28
+- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました6 - TBA
+- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました7 - TBA
+- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました8 - TBA
+- メイドなら当然です。 濡れ衣を着せられた万能メイドさんは旅に出ることにしました9 - TBA
 
 ## [Making Magic: The Sweet Life of a Witch Who Knows an Infinite MP Loophole](https://ranobedb.org/series/10375)
 
@@ -399,10 +381,29 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 - Vol. 9 - 2027-03-02
 - お気楽領主の楽しい領地防衛 10 〜生産系魔術で名もなき村を最強の城塞都市に〜 - TBA
 
+## [Let This Grieving Soul Retire: Woe is the Weakling that Leads the Strongest Party](https://ranobedb.org/series/8466)
+
+- Let This Grieving Soul Retire: Volume 12 - 2027-03-10
+- 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 13 - TBA
+- 嘆きの亡霊は引退したい 〜最弱ハンターによる最強パーティ育成術〜 14 - TBA
+
+## [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340)
+
+- Vol. 7 - 2027-04-13
+- 魔術師クノンは見えている 8 - TBA
+- 魔術師クノンは見えている 9 - TBA
+
 ## [The Devil Princess](https://ranobedb.org/series/13673)
 
 - Vol. 6 - 2027-04-13
 - 悪魔公女7 - TBA
+
+## [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484)
+
+- Vol. 10 - 2027-04-13
+- 転生王女と天才令嬢の魔法革命11 - TBA
+- 転生王女と天才令嬢の魔法革命12 - TBA
+- 転生王女と天才令嬢の魔法革命13 - TBA
 
 ## [I'm the Evil Lord of an Intergalactic Empire!](https://ranobedb.org/series/11131)
 
@@ -430,23 +431,14 @@ Volumes newer than what you've read, per RanobeDB (en releases).
 
 - ポーション頼みで生き延びます!12 - TBA
 
-## [Kunon the Sorcerer Can See](https://ranobedb.org/series/13340)
-
-- 魔術師クノンは見えている 7 - TBA
-- 魔術師クノンは見えている 8 - TBA
-- 魔術師クノンは見えている 9 - TBA
-
 ## [My Quiet Blacksmith Life in Another World](https://ranobedb.org/series/10386)
 
 - 鍛冶屋ではじめる異世界スローライフ 13 - TBA
 - 鍛冶屋ではじめる異世界スローライフ 14 - TBA
 
-## [The Magical Revolution of the Reincarnated Princess and the Genius Young Lady](https://ranobedb.org/series/10484)
+## [Survival in Another World with My Mistress!](https://ranobedb.org/series/9569)
 
-- 転生王女と天才令嬢の魔法革命10 - TBA
-- 転生王女と天才令嬢の魔法革命11 - TBA
-- 転生王女と天才令嬢の魔法革命12 - TBA
-- 転生王女と天才令嬢の魔法革命13 - TBA
+- ご主人様とゆく異世界サバイバル! 11 - TBA
 
 ## [Welcome to Japan, Ms. Elf!](https://ranobedb.org/series/8473)
 
