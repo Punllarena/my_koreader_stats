@@ -1,8 +1,38 @@
-# Released Volumes Not Yet Read (through 2026-11-15)
+# Backlog: Released, Not Yet Read (through 2026-11-19)
 
-Volumes newer than what you've read that RanobeDB lists as released (en releases) on or before 2026-11-15. Source: `stats/updates_by_series.md` (generated 2026-11-17).
+Volumes newer than what you've read that RanobeDB lists as released on or before 2026-11-19 (English releases). Built from `updates_by_series.md`.
 
-**27 titles, 49 volumes.** Left out: 35 volumes dated after 2026-11-15 and 138 with no release date (TBA).
+**27 titles, 49 volumes.** Left out: 35 volumes dated after 2026-11-19 and 138 with no release date.
+
+## Contents
+
+- [Meals Made to Order: How to Domesticate Your Dragon with Delicacies!](#meals-made-to-order-how-to-domesticate-your-dragon-with-delicacies)
+- [Kusunoki's Garden of Gods](#kusunokis-garden-of-gods)
+- [Loner Life in Another World](#loner-life-in-another-world)
+- [Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!](#heroine-saint-no-im-an-all-works-maid-and-proud-of-it)
+- [Chillin' in Another World with Level 2 Super Cheat Powers](#chillin-in-another-world-with-level-2-super-cheat-powers)
+- [Long Story Short, I'm Living in the Mountains](#long-story-short-im-living-in-the-mountains)
+- [The Fearsome Witch Teaches in Another World](#the-fearsome-witch-teaches-in-another-world)
+- [Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim](#magical-explorer-reborn-as-a-side-character-in-a-fantasy-dating-sim)
+- [The Tiny Witch from the Deep Woods](#the-tiny-witch-from-the-deep-woods)
+- [I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic](#im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic)
+- [To Another World... with Land Mines!](#to-another-world-with-land-mines)
+- [The Tale of a Little Alchemist Blessed by the Spirits](#the-tale-of-a-little-alchemist-blessed-by-the-spirits)
+- [The Hero and the Sage, Reincarnated and Engaged](#the-hero-and-the-sage-reincarnated-and-engaged)
+- [The Angel Next Door Spoils Me Rotten](#the-angel-next-door-spoils-me-rotten)
+- [Fired? But I Maintain All the Software!](#fired-but-i-maintain-all-the-software)
+- [Flung into a New World? Time to Lift the 200-Year Curse!](#flung-into-a-new-world-time-to-lift-the-200-year-curse)
+- [The Invincible Little Lady](#the-invincible-little-lady)
+- [Secrets of the Silent Witch](#secrets-of-the-silent-witch)
+- [The Poison King: Now that I've Gained Ultimate Power, the Bewitching Beauties in My Harem Can't Get Enough of Me](#the-poison-king-now-that-ive-gained-ultimate-power-the-bewitching-beauties-in-my-harem-cant-get-enough-of-me)
+- [How I Became King by Eating Monsters](#how-i-became-king-by-eating-monsters)
+- [Peddler in Another World: I Can Go Back to My World Whenever I Want!](#peddler-in-another-world-i-can-go-back-to-my-world-whenever-i-want)
+- [Witch and Mercenary](#witch-and-mercenary)
+- [The Amazing Village Creator: Slow Living with the Village Building Cheat Skill](#the-amazing-village-creator-slow-living-with-the-village-building-cheat-skill)
+- [Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.](#bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense)
+- [Witches Can't Be Collared](#witches-cant-be-collared)
+- [Fluffy Café in Another World](#fluffy-café-in-another-world)
+- [The World's Strongest Witch: I'm Starting My Free Life in a World Where Only I Can See the Online Strategy Guide](#the-worlds-strongest-witch-im-starting-my-free-life-in-a-world-where-only-i-can-see-the-online-strategy-guide)
 
 ## [Meals Made to Order: How to Domesticate Your Dragon with Delicacies!](https://ranobedb.org/series/14271)
 

@@ -3,7 +3,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 
-for script in monthly yearly book_dates pace wrapped updates
+for script in monthly yearly book_dates pace wrapped updates backlog tags recommend
 do
     echo "== $script"
     python3 "scripts/$script.py"

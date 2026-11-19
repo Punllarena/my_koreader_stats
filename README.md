@@ -38,6 +38,9 @@ tests/                self-checks
 | `scripts/pace.py` | `stats/pace.md` — pages/hour overall, per year and per book; heaviest days and longest sittings; how long each book took start to finish |
 | `scripts/wrapped.py` | `stats/wrapped.md` — a Wrapped-style recap per year and quarter, each ending in a one-line caption to paste |
 | `scripts/updates.py` | `stats/updates_by_series.md`, `stats/updates_by_month.md` — volumes newer than the ones read, per RanobeDB (English releases) |
+| `scripts/backlog.py` | `stats/backlog.md` — the already-released subset of those newer volumes, as of today (runs after `updates.py`) |
+| `scripts/tags.py` | `stats/tags.md` — what you read by RanobeDB genre, tag and demographic (series count and read time), each tag linked to RanobeDB and to your series |
+| `scripts/recommend.py` | `stats/recommendations.md` — unread English-release series ranked by tag, author and artist match with what you read, adjusted for ratings and how many readers drop the series; the best matches with a recent or upcoming English volume come first (needs a few minutes the first time, then uses the cache) |
 | `scripts/sync_ranobedb.py`, `sync_ranobedb_auto.py` | update your RanobeDB reading list, asking or not (not part of `regen.sh`, see below) |
 
 `scripts/paths.py` holds every path, `scripts/titles.py` parses KOReader titles into a series
